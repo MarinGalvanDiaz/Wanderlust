@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    font-family: Helvetica;
+}
+
+header{
+  width: 100%;
+  height: 500px;
+  background: #022f1f;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, hsla(150, 74%, 20%, 0.593), hsla(174, 81%, 39%, 0.5)), url(../principiantes2.png);
+  background: linear-gradient(to right, hsla(150, 74%, 20%, 0.593), hsla(172, 81%, 39%, 0.5)), url(../principiantes2.png); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+}
+.wave{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+}
+nav{
+  text-align: right;
+  padding: 30px 50px 0 0;
+}
+
+nav > a {
+  color: #022f1f;
+  font-weight: 300;
+  text-decoration: none;
+  margin-right: 20px ;
+}
+nav > a:hover {
+  color: #e5eff7;
+  text-decoration: underline;
+ 
+}
+
+header .textos-header{
+  display: flex;
+  height: 300px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.textos-header h2{
+  font-size: 40px;
+  color: honeydew;
+}
+.textos-header h3{
+  font-size: 20px;
+  font-weight: 300;
+  color: honeydew;
+}
+.tarjetitas{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+
+}
+.container{
+  width: 100%;
+  display: flex;
+  max-width: 1100px;
+}
+.card{
+  width: 100%;
+  margin: 20px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+  cursor: default;
+  transition: all 400ms ease;
+}
+.card:hover{
+  box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+  transform: translateY(-3%);
+
+}
+.card img{
+  width: 100%;
+  height: 210px;
+}
+.card .contenido{
+  padding: 15px;
+  text-align: center;
+}
+.card .contenido p{
+  line-height: 1.5;
+  color: #6a6a6a;
+}
+.card .contenido h3{
+  font-weight: 4000;
+  margin-bottom: 15px;
+}
+.card .contenido a{
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 10px;
+  color: darkcyan;
+  border: 1px solid darkcyan;
+  border-radius: 4px;
+  transition: all 400ms ease;
+}
+.card .contenido a:hover{
+  background: darkcyan;
+  color: #fff;
+}
+
+
+

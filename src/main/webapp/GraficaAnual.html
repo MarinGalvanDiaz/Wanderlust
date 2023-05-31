@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imgasesores/logo_sin_fondo.png" type="image/x-icon">
+    <link rel="stylesheet" href="GraficaAnual.css">
+    <title>WANDERLUST</title>
+</head>
+<body>
+  <section class="titulo">
+  <h1> Visualiza tus Movimientos Anuales </h1>
+  <canvas id="myChart" height="600" width="600"></canvas>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <script>
+    const ctx = document.getElementById('myChart');
+  
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: ['2010', '2011', '2012', '2013', '2014', '2015',
+                          '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023'],
+        datasets: [{
+          label: 'Ingresos',
+          data: [123,2231,343,2323,221,543,5323,4353,2323,643,3324,534,864,964],
+          borderWidth: 2.5,
+          borderColor: 'rgb(127, 255, 212)',
+          pointBackgroundColor: 'rgb(0,139,139)',
+          pointBorderColor: 'rgb(143, 188, 143)'
+        },
+        {
+          label: 'Gastos',
+          data: [323,244,545,353,43,3534,235,5443,3542,243,4534,543,86,534],
+          borderWidth: 2.5,
+          borderColor: 'rgb(95, 158, 160)',
+          pointBackgroundColor: 'rgb(143, 188, 143)',
+          pointBorderColor: 'rgb(0,139,139)'
+        }
+      ]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+  </body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang = "es">
+    <head>
+        <title> WANDERLUST </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="Principiantes.css">
+        <link rel="shortcut icon" href="../webapp/img/logo_sin_fondo.png" type="image/x-icon">
+        <link rel="stylesheet" href="TerCondi.css">
+        <script type="text/javascript">
+        function enableSending(){
+          document.loginform.submit.disabled = !document.loginform.terms.checked;
+        }
+    </script>
+    </head>
+    
+    <body>
+        <header>
+            <nav>
+                <a href="https://www.sat.gob.mx/home"> Más </a>
+                <a href="https://www.practicalbusinessskills.com/sp/getting-started/financial-basics"> Acerca de </a>
+                <a href="https://www.facebook.com/profile.php?id=100087152760879"> Contacto </a>
+            </nav>
+        <section class="textos-header">
+             <h2> BIENVENID@ PRINCIPIANTE </h2>
+             <br><br>
+             <h3><marquee behavior="scroll" direction="left" scrolldelay="600" scrollamount="50">En este apartado aprenderás lo esencial
+                para poder defenderte contra el SAT</marquee></h3>
+ 
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" 
+            preserveAspectRatio="none" style="height: 100%; width: 100%;">
+            <path d="M-0.90,79.44 C150.00,150.00 349.20,-49.99 501.35,32.06 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #fff;">
+            </path></svg></div>
+        </header>
+    <section class="tarjetitas">
+        <div class="container">
+            <div class="card">
+                <figure>
+                    <img src="./img2/conta.png">
+                </figure>
+                <div class="contenido">
+                   <h3>Contabilidad</h3> 
+                   <p>La contabilidad es el Sistema de control y registro de los gastos e ingresos y demás operaciones económicas que se 
+                    realizan en un negocio, empresa o entidad</p>
+                    <a href="info.html">Leer Mas</a>
+                </div>
+            </div>
+            <div class="card">
+                <figure>
+                    <img src="./img2/finanzas.png">
+                </figure>
+                <div class="contenido">
+                   <h3>Finanzas</h3> 
+                   <p>Estudia el funcionamiento de los mercados de dinero y capitales, las instituciones que operan en ellos, las políticas de 
+                    captación de recursos, el valor del dinero en el tiempo y el coste del capital.</p>
+                    <a href="info2.html">Leer Mas</a>
+                </div>
+            </div><div class="card">
+                <figure>
+                    <img src="./img2/impuestos.png">
+                </figure>
+                <div class="contenido">
+                   <h3>Impuestos</h3> 
+                   <p>
+                    Los impuestos son una contribución (pago) en dinero o en especie, de carácter obligatorio, con la que cooperamos para fortalecer la economía del país. Los impuestos sirven para proveer de recursos al gobierno y éste pueda alcanzar 
+                    los objetivos propuestos en su planeación.
+                    </p>
+                    <a href="info3.html">Leer Mas</a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <form name="loginform" action="indexMenu.jsp">
+    <div class="boton-modal">
+        <label for="btn-modal">
+            Siguiente
+        </label>
+    </div>
+    
+    <input type="checkbox" id="btn-modal">
+    <div class="container-modal">
+        <div class="content-modal">
+            <h2> Has terminado de informarte correctamente!</h2>
+            <br>
+            <p> Para tener acceso a todo el material es necesario que aceptes los términos y condiciones
+            </p>
+            <br>
+            <div class="terms">
+                <input type="checkbox" name="terms" onclick="enableSending()">
+                <label for="terms"> Acepto Condiciones Generales</label>
+                <br>
+                <a href="TermiCond.html"> Leer más... </a>
+            </div>
+            <div class="btn-cerrar">
+                <input type="submit" name="submit" value="COMENZAR" disabled>
+            </div>
+        </div>
+        <label for="btn-modal" class="cerrar-modal"></label>
+    </div>
+</form>
+       
+    </body>
+</html>

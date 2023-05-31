@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman';
+}
+body{
+    height: 410vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../img2/fondoinfo.png);
+    background-size: 100vw 410vh;
+    background-repeat: no-repeat;
+}
+.capa{
+    width: 100%;
+    height: 410vh;
+    position: absolute;
+    background: #273452;
+    opacity: 0.7;
+}
+
+.contenedor{
+    padding: 20px 0 40px 0;
+    z-index: 1;
+}
+.header{
+    width: 100%;
+    height: 100px;
+
+  }
+  nav{
+    text-align: right;
+    padding: 30px 0 0 0;
+  }
+  
+  nav > a {
+    color: #ebedef;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 20px ;
+  }
+  nav > a:hover {
+    color: #045053;
+    text-decoration: underline;
+   
+  }
+.parrafo1{
+    z-index: 1;
+    width: 540px;
+    height: 320px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo1 img {
+    width: 310px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+
+.parrafo2{
+    z-index: 1;
+    width: 540px;
+    height: 250px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo2 img {
+    width: 250px;
+    height: 200px;
+    border-radius: 5px;
+    float: right;
+    margin-left: 15px;
+}
+
+.parrafo3{
+    z-index: 1;
+    width: 540px;
+    height: 228px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo3 img {
+    width: 250px;
+    height: 190px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+
+.parrafo4{
+    z-index: 1;
+    width: 540px;
+    height: 250px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo4 img {
+    width: 220px;
+    height: 210px;
+    border-radius: 5px;
+    float: right;
+    margin-left: 15px;
+}
+
+.parrafo5{
+    z-index: 1;
+    width: 540px;
+    height: 250px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo5 img {
+    width: 210px;
+    height: 200px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+
+.parrafo6{
+    z-index: 1;
+    width: 540px;
+    height: 260px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo6 img {
+    width: 250px;
+    height: 170px;
+    border-radius: 5px;
+    float: right;
+    margin-left: 15px;
+}
+.parrafo7{
+    z-index: 1;
+    width: 540px;
+    height: 370px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo7 img {
+    width: 300px;
+    height: 210px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+.parrafo8{
+    z-index: 1;
+    width: 540px;
+    height: 260px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo8 img {
+    width: 220px;
+    height: 180px;
+    border-radius: 5px;
+    float: right;
+    margin-left: 15px;
+}
+.parrafo9{
+    z-index: 1;
+    width: 540px;
+    height: 200px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 25px
+    rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo9 img {
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+

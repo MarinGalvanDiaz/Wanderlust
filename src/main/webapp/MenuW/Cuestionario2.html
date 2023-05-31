@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../webapp/img/logo_sin_fondo.png" type="image/x-icon">
+    <link rel="stylesheet" href="Cuestionario2.css">
+    <title>wANDERLUST</title>
+    
+     <script>
+        function agregar() {
+                abc = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]; 
+
+            for (i = 0; i < abc.length; i++)
+                combito.options[i + 1] = new Option(abc[i]);
+        }
+
+        function agregarotrocombo() {
+            var contador = 0;
+            var abc;
+            var cuantos = combito.length;
+
+            for (contador = 1; contador <= cuantos; contador++)
+                combito2.options[1] = null;
+            abc = combito.options[combito.selectedIndex];
+            noabc = combito.options[combito.selectedIndex].index;
+
+            if (noabc === 1) {
+                a = ["ATLÁNTICO","AFIRME","ANÁHUAC", "AMERICAN EXPRESS", "AZTECA", "AUTOFIN", "ABC CAPITAL"];
+                for (i = 0; i < a.length; i++)
+                    combito2.options[i + 1] = new Option(a[i]);
+            } 
+            else
+            if (noabc === 2) {
+                b = ["BANAMEX", "BBVA BANCOMER", "BBVA SERVICIOS", "BANSI", "BANPAÍS", "BANCEN",
+                "BAMSA", "BANORTE/IXE", "BOSTON", "BNP", "BANK ONE", "BARCLAYS", "BANCO FAMSA", "BANCO MULTIVA",
+                "BM ACTINVER", "BANCOPPEL", "BANK NEW YORK", "BM BASE", "BICENTENARIO", "BANKAOOL", "BANCREA",
+                "BANK OF CHINA", "Bancrecer, S.A." ];
+                for (i = 0; i < b.length; i++)
+                    combito2.options[i + 1] = new Option(b[i]);
+            } 
+        else
+            if (noabc === 3) {
+                c = ["CITIBANK", "CONFÍA", "CAPITAL", "CREMI", "COMPARTAMOS", "CONSUBANCO", "CIBANCO",
+                  "CHIHUAHUA", "Credit Suisse First Boston"];
+                for (i = 0; i < c.length; i++)
+                    combito2.options[i + 1] = new Option(c[i]);
+            } 
+        else
+            if (noabc === 4) {
+                d = ["DONDÉ", "DEUTSCHE"];
+                for (i = 0; i < d.length; i++)
+                    combito2.options[i + 1] = new Option(d[i]);
+            } 
+        else
+            if (noabc === 5) {
+                e = ["//"];
+                for (i = 0; i < e.length; i++)
+                    combito2.options[i + 1] = new Option(e[i]);
+            } 
+        else
+            if (noabc === 6) {
+                f = ["FINTERRA", "FUJI"];
+                for (i = 0; i < f.length; i++)
+                    combito2.options[i + 1] = new Option(f[i]);
+            } 
+        else
+            if (noabc === 7) {
+                g = ["GE MONEY"];
+                for (i = 0; i < g.length; i++)
+                    combito2.options[i + 1] = new Option(g[i]);
+            } 
+        else
+            if (noabc === 8) {
+                h = ["HSBC"];
+                for (i = 0; i < h.length; i++)
+                    combito2.options[i + 1] = new Option(h[i]);
+            } 
+        else
+            if (noabc === 9) {
+                ji = ["INDUSTRIAL", "INTERBANCO", "IXE", "INBURSA", "INTERACCIONES", "INVEX", "INVESTA BANK", "ING", "INTERCAM BANCO"];
+                for (i = 0; i < ji.length; i++)
+                    combito2.options[i + 1] = new Option(ji[i]);
+            } 
+        else
+            if (noabc === 10) {
+                j = ["JP MORGAN"];
+                for (i = 0; i < j.length; i++)
+                    combito2.options[i + 1] = new Option(j[i]);
+            } 
+        else
+            if (noabc === 11) {
+                k = ["//"];
+                for (i = 0; i < k.length; i++)
+                    combito2.options[i + 1] = new Option(k[i]);
+            } 
+        else
+            if (noabc === 12) {
+                l = ["//"];
+                for (i = 0; i < l.length; i++)
+                    combito2.options[i + 1] = new Option(l[i]);
+            } 
+        else
+            if (noabc === 13) {
+                m = ["MONEX", "MIFEL"];
+                for (i = 0; i < m.length; i++)
+                    combito2.options[i + 1] = new Option(m[i]);
+            } 
+        else
+            if (noabc === 14) {
+                n = ["NATIONSBANK"];
+                for (i = 0; i < n.length; i++)
+                    combito2.options[i + 1] = new Option(n[i]);
+            } 
+        else
+            if (noabc === 15) {
+                o = ["ORIENTE", "OBRERO"];
+                for (i = 0; i < o.length; i++)
+                    combito2.options[i + 1] = new Option(o[i]);
+            } 
+        else
+            if (noabc === 16) {
+                p = ["PRONORTE", "PROMEX", "PAGATODO"];
+                for (i = 0; i < p.length; i++)
+                    combito2.options[i + 1] = new Option(p[i]);
+            }
+        else
+            if (noabc === 17) {
+                q = ["QUADRUM"];
+                for (i = 0; i < q.length; i++)
+                    combito2.options[i + 1] = new Option(q[i]);
+            }
+        else
+            if (noabc === 18) {
+                r = ["REPUBLIC NY"];
+                for (i = 0; i < r.length; i++)
+                    combito2.options[i + 1] = new Option(r[i]);
+            }
+        else
+            if (noabc === 19) {
+                s = ["SERFIN", "SANTANDER", "SURESTE", "SCOTIABANK INVERLAT", "SOCIÉTÉ"];
+                for (i = 0; i < s.length; i++)
+                    combito2.options[i + 1] = new Option(s[i]);
+            }
+        else
+            if (noabc === 20) {
+               t = ["TOKYO"];
+                for (i = 0; i < t.length; i++)
+                    combito2.options[i + 1] = new Option(t[i]);
+            }
+        else
+            if (noabc === 21) {
+                u = ["UNIÓN", "UBS BANK"];
+                for (i = 0; i < u.length; i++)
+                    combito2.options[i + 1] = new Option(u[i]);
+            }
+        else
+            if (noabc === 22) {
+                v = ["VOLKSWAGEN", "VE POR MÁS"];
+                for (i = 0; i < v.length; i++)
+                    combito2.options[i + 1] = new Option(v[i]);
+            }
+        else
+            if (noabc === 23) {
+                w = ["WAL-MART"];
+                for (i = 0; i < w.length; i++)
+                    combito2.options[i + 1] = new Option(w[i]);
+            }
+        else
+            if (noabc === 24) {
+                x = ["//"];
+                for (i = 0; i < x.length; i++)
+                    combito2.options[i + 1] = new Option(x[i]);
+            }
+        else
+            if (noabc === 25) {
+                y = ["//"];
+                for (i = 0; i < y.length; i++)
+                    combito2.options[i + 1] = new Option(y[i]);
+            }
+        else
+            if (noabc === 26) {
+                z = ["//"];
+                for (i = 0; i < z.length; i++)
+                    combito2.options[i + 1] = new Option(z[i]);
+            }
+        }
+        
+    </script>
+</head>
+<body onload = agregar();>
+    <section class="form-info">
+<h2 class="titulo"> INGRESO DE DATOS </h2><br><br>
+
+<form action="altas.jsp" method="post" name="altas">
+<h3> Para el optimo uso del software, ingrese los siguientes datos </h3>
+    <br>
+    <br><br>
+    RFC: &nbsp; <input class="controls" type="text" name="RFC_R" placeholder="Ingrese su RFC">
+    <br><br>
+    Firma Digital: &nbsp;<input class="controls" type="text" name="Firma_digital_R" placeholder="Ingrese su Firma Digital">
+    <br><br>
+    Letra: &nbsp;
+            <select  id="combito" onchange=agregarotrocombo() name="Letra">
+                <option class="controls" value="opca"> Seleccione alguna</option>
+            </select>
+    <br><br>
+            
+    Banco de conveniencia: &nbsp; &nbsp;
+    <select  id="combito2" onchange="desplegar()" name="Banco_Referencia">
+        <option class="controls" value="opcaa" disabled> Seleccione alguna </option>
+    </select><br><br>
+
+    No. de Tarjeta: &nbsp; <input class="controls"  type="text" name="Num_tarjeta" placeholder="Ingrese su Numero de Tarjeta">  
+    <br><br>
+    
+    CURP &nbsp; <input class="controls" type="text" name="CURP" placeholder="Ingrese su curp"> 
+    <br><br>
+    <input class="botons" type="submit" name="altas" value="Guardar">
+</form>
+
+
+    <div class="burbujas">
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+            <div class="burbuja"></div>
+        </div>
+<section>
+    
+</body>
+</html>

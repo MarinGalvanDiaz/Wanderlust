@@ -1,0 +1,134 @@
+<%-- 
+    Document   : index
+    Created on : 28 mar 2023, 19:23:50
+    Author     : chang
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+
+<%@page import="java.sql.*"%>
+<%@page import="Modelo.conexion"%>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cuestionario sobre Inversiones</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="br1half">
+      <!------------------------- 
+        Header - Title & Time Countdown 
+      ------------------------->
+      <header class="p2 m2">
+        <h1>Inversiones</h1>
+        <div class="timer">
+          <h4>Tiempo restante: <span>20</span></h4>
+        </div>
+      </header>
+      <!------------------------- 
+        Get started page - Instructions 
+      ------------------------->
+      <section class="get-started">
+        <div class="instructions br1half">
+          <h2>Selecciona el boton de abajo para empezar</h2>
+          <p class="p2">
+            Tienes 20 segundos para contestar cada pregunta. 
+            En total son 10 preguntas propuestas
+          </p>
+          <h3 class="p2">Buena suerte!</h3>
+        </div>
+        <button id="start-btn" type="button" class="start-button p2 m2 br1half">
+          Comenzar
+        </button>
+      </section>
+      <!-------------------------
+        Main quiz body
+      ------------------------->
+      <section class="main-quiz">
+        <!-- Progress - Bar in percent & Display question count -->
+        <section class="progress-container m2 br1half">
+          <progress class="progress-bar p2" value="0" max="100"></progress>
+          <p>
+            Pregunta <span class="current-question">0</span> de
+            <span class="total-questions">20</span>
+          </p>
+        </section>
+        <!-- Questions & Answers  -->
+        <section class="qa-container p2 m2">
+          <h2 id="question">What does HTML stands for?</h2>
+          <div class="option-buttons">
+            <button
+              data-index="0"
+              id="option-1"
+              type="button"
+              class="p2 br1half option"
+              onclick="optionClicked(this)"
+            >
+              ...
+            </button>
+            <button
+              data-index="1"
+              id="option-2"
+              type="button"
+              class="p2 br1half option"
+              onclick="optionClicked(this)"
+            >
+              ...
+            </button>
+            <button
+              data-index="2"
+              id="option-3"
+              type="button"
+              class="p2 br1half option"
+              onclick="optionClicked(this)"
+            >
+              ...
+            </button>
+          </div>
+        </section>
+        <!------------------------- 
+          Footer buttons 
+        ------------------------->
+        <footer class="p2 m2">
+          <button type="button" class="check-answer p2 br1half">
+            Comprobar respuesta
+          </button>
+          <button type="button" class="next-question p2 br1half">
+            Siguiente pregunta
+          </button>
+          <button type="button" class="finish-quiz p2 br1half">
+            Terminar cuestionario
+          </button>
+          <button type="button" class="quit-quiz p2 br1half">Quitar Cuestionario</button>
+        </footer>
+      </section>
+      <!------------------------- 
+          Score page
+      ------------------------->
+      <section class="final-score">
+        <div class="display-score br1half">
+          <h2>Total de aciertos: </h2>
+          <span class="my-score">0</span> de
+          <span class="total-score">20</span>
+          <h3 class="p2">Bien hecho!</h3>
+        </div>
+        <button id="restart-btn" type="button" class="start-button p2 br1half">
+          Intentarlo de nuevo
+        </button>
+          <form action='/validarCuestionario2.jsp' method="post">
+              <input type="hidden" name="usuario" value="${usuario.usuario}">
+                <input type="hidden" name="contador" value="" id="contador">
+              <button type="submit" class="quiz-quiz score-quit p2 br1half">
+          Quitar Cuestionario
+        </button>
+              </form>
+      </section>
+    </main>
+  </body>
+  <!-- Local JavaScript file -->
+  <script src="./script.js"></script>
+</html>

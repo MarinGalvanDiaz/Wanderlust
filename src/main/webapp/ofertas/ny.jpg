@@ -1,0 +1,1097 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head >
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<style type="text/css" id="nab-alternative-loader-style"></style>
+<script data-cfasync="false" type="text/javascript" id="nelio-ab-testing-kickoff">/*nelio-ab-testing-kickoff*//* <![CDATA[ */!function(){var e=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n={};!function(){"use strict";e(n);var t,o,a,i={},d=[];function r(e){var n=function(){};window.nabAddSingleAction="fake"===e?n:c,window.nabDoSingleAction="fake"===e?n:u}function c(e,n){try{if(d.includes(e))return void n();var t=i[e]||[];t.push(n),i[e]=t}catch(e){}}function u(e){if(!d.includes(e)){d.push(e);var n=i[e]||[];for(n.reverse();n.length;){var t=n.pop();null==t||t()}}}function l(){var e=document.getElementById("nab-alternative-loader-style");(null==e?void 0:e.parentNode)&&e.parentNode.removeChild(e);try{var n=document.createEvent("HTMLEvents");n.initEvent("resize",!0,!1),document.dispatchEvent(n)}catch(e){}}-1===(o=window.navigator.userAgent||"").indexOf("MSIE ")&&-1===o.indexOf("Trident/")?(function(){var e;if(/\bnabstaging\b/.test(document.location.search)&&(document.cookie="nabIsStagingSite=true; path=/",null===(e=window.history)||void 0===e?void 0:e.replaceState)){var n=document.location.href;n=/\bnabstaging&/.test(n)?n.replace("nabstaging&",""):/&nabstaging\b/.test(n)?n.replace("&nabstaging",""):n.replace("?nabstaging",""),window.history.replaceState({},"",n)}}(),(t=document.getElementById("nab-alternative-loader-style"))&&(t.innerHTML="",t.appendChild(document.createTextNode('html::before, body::before { background:#fff; content:""; width:100vw; height:100vh; position:fixed; z-index:999999999; }'))),c("valid-content",l),a=function(){return setTimeout((function(){return u("valid-content")}),2500)},"undefined"!=typeof document&&("complete"!==document.readyState&&"interactive"!==document.readyState?document.addEventListener("DOMContentLoaded",a):a()),r()):r("fake")}();var t=nab="undefined"==typeof nab?{}:nab;for(var o in n)t[o]=n[o];n.__esModule&&Object.defineProperty(t,"__esModule",{value:!0})}();/* ]]> */</script>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><script data-cfasync="false" type="text/javascript" id="nelio-ab-testing-alternative-loader" src="https://economipedia.com/wp-content/plugins/nelio-ab-testing/assets/dist/js/alternative-loader.js?version=39585aca267b9f2ba4cc0ea01df34a47"></script>
+<script data-cfasync="false" type="text/javascript" id="nelio-ab-testing-alternative-loader-after">/*nelio-ab-testing-alternative-loader-after*//* <![CDATA[ */window.nabAddSingleAction( "alt-loader-init-available", function() { nab.loader.init( {"experiments":{"187783":{"segments":[{"id":0,"segmentationRules":[{"type":"nab\/location","attributes":{"condition":"is-equal-to","location":[{"value":"ES","label":"Espa\u00f1a"}]}},{"type":"nab\/device-type","attributes":{"condition":"is-equal-to","values":[{"value":"desktop","label":"Escritorio"}]}}]}],"type":"nab\/menu"}},"gdprCookie":false,"hideQueryArgs":false,"ignoreTrailingSlash":true,"isStagingSite":false,"isTestedPostRequest":false,"maxCombinations":24,"numOfAlternatives":2,"participationChance":100,"postId":35181,"postUrls":[{"postId":35181,"url":"https:\/\/economipedia.com\/definiciones\/bolsa-de-valores-de-nueva-york-nyse.html"}],"preloadQueryArgUrls":[{"type":"scope","scope":["**"],"altCount":2}],"referrerParam":"utm_referrer","site":"51a958b0-2bef-46b8-8918-613e5ff10f60","whenIsGeoDataRequired":"now"} ); } );/* ]]> */</script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Bolsa de valores de Nueva York (NYSE) | 2023 | Economipedia</title>
+	<meta name="description" content="✅ Bolsa de valores de Nueva York (NYSE) | Qué es, significado, concepto y definición. La bolsa de valores de Nueva York, conocida en inglés como New York Stock Exchange..." />
+	<link rel="canonical" href="https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Bolsa de valores de Nueva York (NYSE) - Definición, qué es y concepto | Economipedia" />
+	<meta property="og:description" content="La bolsa de valores de Nueva York, conocida en inglés como New York Stock Exchange (NYSE), representa el mercado de valores más grande del mundo. La bolsa de valores de Nueva York, que se conoce en la jerga financiera como NYSE, es el mercado de valores más grande del mundo tanto en volumen monetario comoLeer más" />
+	<meta property="og:url" content="https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html" />
+	<meta property="og:site_name" content="Economipedia" />
+	<meta property="article:publisher" content="https://www.facebook.com/Economipedia/" />
+	<meta property="og:image" content="https://economipedia.com/wp-content/uploads/NYSE-1.png" />
+	<meta property="og:image:width" content="1073" />
+	<meta property="og:image:height" content="523" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="José Francisco López" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@Ciudaddeltrader" />
+	<meta name="twitter:site" content="@economipedia" />
+	<meta name="twitter:label1" content="Escrito por" />
+	<meta name="twitter:data1" content="José Francisco López" />
+	<meta name="twitter:label2" content="Tiempo de lectura" />
+	<meta name="twitter:data2" content="3 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html#article","isPartOf":{"@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html"},"author":{"name":"José Francisco López","@id":"https://economipedia.com/#/schema/person/9a439704e9f09a468617d1e9a87e6e9e"},"headline":"Bolsa de valores de Nueva York (NYSE)","datePublished":"2018-05-27T21:32:55+00:00","dateModified":"2022-11-24T15:47:23+00:00","mainEntityOfPage":{"@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html"},"wordCount":549,"commentCount":4,"publisher":{"@id":"https://economipedia.com/#organization"},"image":{"@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html#primaryimage"},"thumbnailUrl":"https://economipedia.com/wp-content/uploads/NYSE-1.png","articleSection":["Bolsa","Diccionario económico","Inversión"],"inLanguage":"es","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html#respond"]}]},{"@type":["WebPage","ItemPage"],"@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html","url":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html","name":"Bolsa de valores de Nueva York (NYSE) - Definición, qué es y concepto | Economipedia","isPartOf":{"@id":"https://economipedia.com/#website"},"primaryImageOfPage":{"@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html#primaryimage"},"image":{"@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html#primaryimage"},"thumbnailUrl":"https://economipedia.com/wp-content/uploads/NYSE-1.png","datePublished":"2018-05-27T21:32:55+00:00","dateModified":"2022-11-24T15:47:23+00:00","breadcrumb":{"@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html#primaryimage","url":"https://economipedia.com/wp-content/uploads/NYSE-1.png","contentUrl":"https://economipedia.com/wp-content/uploads/NYSE-1.png","width":1073,"height":523,"caption":"NYSE"},{"@type":"BreadcrumbList","@id":"https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"https://economipedia.com/"},{"@type":"ListItem","position":2,"name":"Bolsa de valores de Nueva York (NYSE)"}]},{"@type":"WebSite","@id":"https://economipedia.com/#website","url":"https://economipedia.com/","name":"Economipedia","description":"Haciendo fácil la economía","publisher":{"@id":"https://economipedia.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://economipedia.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"https://economipedia.com/#organization","name":"Economipedia","url":"https://economipedia.com/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://economipedia.com/#/schema/logo/image/","url":"https://economipedia.com/wp-content/uploads/Logo-Economipedia-Azul.png","contentUrl":"https://economipedia.com/wp-content/uploads/Logo-Economipedia-Azul.png","width":250,"height":56,"caption":"Economipedia"},"image":{"@id":"https://economipedia.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/Economipedia/","https://twitter.com/economipedia","https://www.instagram.com/economipedia/","https://www.linkedin.com/company/economipedia/","https://es.wikipedia.org/wiki/Economipedia"]},{"@type":"Person","@id":"https://economipedia.com/#/schema/person/9a439704e9f09a468617d1e9a87e6e9e","name":"José Francisco López","image":{"@type":"ImageObject","inLanguage":"es","@id":"https://economipedia.com/#/schema/person/image/","url":"https://economipedia.com/wp-content/uploads/cropped-Jose-Francisco-Lopez_-Economipedia-1-96x96.jpg","contentUrl":"https://economipedia.com/wp-content/uploads/cropped-Jose-Francisco-Lopez_-Economipedia-1-96x96.jpg","caption":"José Francisco López"},"description":"Profesor y redactor en Economipedia. Es graduado en Economía por la Universidad de Murcia (España) y máster en Dirección y Gestión de Proyectos por el IMF Business School (España). Inversor y emprendedor.","sameAs":["https://www.linkedin.com/in/jose-francisco-lopez/","https://twitter.com/Ciudaddeltrader"],"url":"https://economipedia.com/author/jf-lopez"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='stylesheet' id='modal-box-css-css' href='//cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/css/iziModal.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-sample-css' href='https://economipedia.com/statics/css/style.css?ver=3.0.846858' type='text/css' media='all' />
+<style id='genesis-sample-inline-css' type='text/css'>
+
+
+		a,
+		.entry-title a:focus,
+		.entry-title a:hover,
+		.genesis-nav-menu a:focus,
+		.genesis-nav-menu a:hover,
+		.genesis-nav-menu .current-menu-item > a,
+		.genesis-nav-menu .sub-menu .current-menu-item > a:focus,
+		.genesis-nav-menu .sub-menu .current-menu-item > a:hover,
+		.menu-toggle:focus,
+		.menu-toggle:hover,
+		.sub-menu-toggle:focus,
+		.sub-menu-toggle:hover {
+			color: #1266b1;
+		}
+
+		
+
+		button:focus,
+		button:hover,
+		input[type="button"]:focus,
+		input[type="button"]:hover,
+		input[type="reset"]:focus,
+		input[type="reset"]:hover,
+		input[type="submit"]:focus,
+		input[type="submit"]:hover,
+		input[type="reset"]:focus,
+		input[type="reset"]:hover,
+		input[type="submit"]:focus,
+		input[type="submit"]:hover,
+		.button:focus,
+		.button:hover {
+			background-color: #1266b1;
+			color: #ffffff;
+		}
+
+		@media only screen and (min-width: 960px) {
+			.genesis-nav-menu > .menu-highlight > a:hover,
+			.genesis-nav-menu > .menu-highlight > a:focus,
+			.genesis-nav-menu > .menu-highlight.current-menu-item > a {
+				background-color: #1266b1;
+				color: #ffffff;
+			}
+		}
+		
+		.wp-custom-logo .site-container .title-area {
+			max-width: 250px;
+		}
+		
+		.wp-custom-logo .title-area {
+			padding-top: 7px;
+		}
+		
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://economipedia.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gutentocwp-cgb-style-css-css' href='https://economipedia.com/wp-content/plugins/gutentoc-advance-table-of-content/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magic-login-login-block-css' href='https://economipedia.com/wp-content/plugins/magic-login-pro/dist/css/login-block-style.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://economipedia.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--light-gray: #f5f5f5;--wp--preset--color--medium-gray: #999;--wp--preset--color--dark-gray: #333;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 20px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--larger: 24px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://economipedia.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-css-css' href='https://economipedia.com/wp-content/plugins/honeypot/includes/css/wpa.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='pld-font-awesome-css' href='https://economipedia.com/wp-content/plugins/posts-like-dislike/css/fontawesome/css/all.min.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pld-frontend-css' href='https://economipedia.com/wp-content/plugins/posts-like-dislike/css/pld-frontend.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdiscuz-frontend-css-css' href='https://economipedia.com/wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.5.3' type='text/css' media='all' />
+<style id='wpdiscuz-frontend-css-inline-css' type='text/css'>
+ #wpdcom .wpd-blog-administrator .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-administrator .wpd-comment-author, #wpdcom .wpd-blog-administrator .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-administrator .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment.wpd-reply .wpd-comment-wrap.wpd-blog-administrator{border-left:3px solid #00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-administrator .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-administrator .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-administrator .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-editor .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-editor .wpd-comment-author, #wpdcom .wpd-blog-editor .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-editor .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment.wpd-reply .wpd-comment-wrap.wpd-blog-editor{border-left:3px solid #00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-editor .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-editor .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-editor .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-author .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-author .wpd-comment-author, #wpdcom .wpd-blog-author .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-author .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-author .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-author .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-author .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-contributor .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-contributor .wpd-comment-author, #wpdcom .wpd-blog-contributor .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-contributor .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-contributor .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-contributor .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-contributor .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-subscriber .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-subscriber .wpd-comment-author, #wpdcom .wpd-blog-subscriber .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-subscriber .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-subscriber .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom .wpd-blog-marfeel .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-marfeel .wpd-comment-author, #wpdcom .wpd-blog-marfeel .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-marfeel .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-marfeel .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-marfeel .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-marfeel .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-bbp_keymaster .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-bbp_keymaster .wpd-comment-author, #wpdcom .wpd-blog-bbp_keymaster .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-bbp_keymaster .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-bbp_keymaster .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-bbp_keymaster .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-bbp_keymaster .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-bbp_moderator .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-bbp_moderator .wpd-comment-author, #wpdcom .wpd-blog-bbp_moderator .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-bbp_moderator .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-bbp_moderator .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-bbp_moderator .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-bbp_moderator .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-bbp_participant .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-bbp_participant .wpd-comment-author, #wpdcom .wpd-blog-bbp_participant .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-bbp_participant .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-bbp_participant .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-bbp_participant .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-bbp_participant .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-bbp_spectator .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-bbp_spectator .wpd-comment-author, #wpdcom .wpd-blog-bbp_spectator .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-bbp_spectator .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-bbp_spectator .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-bbp_spectator .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-bbp_spectator .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-bbp_blocked .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-bbp_blocked .wpd-comment-author, #wpdcom .wpd-blog-bbp_blocked .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-bbp_blocked .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-bbp_blocked .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-bbp_blocked .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-bbp_blocked .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-campus_on .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-campus_on .wpd-comment-author, #wpdcom .wpd-blog-campus_on .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-campus_on .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-campus_on .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-campus_on .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-campus_on .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-campus_off .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-campus_off .wpd-comment-author, #wpdcom .wpd-blog-campus_off .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-campus_off .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-campus_off .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-campus_off .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-campus_off .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-translator .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-translator .wpd-comment-author, #wpdcom .wpd-blog-translator .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-translator .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-translator .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-translator .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-translator .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-customer .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-customer .wpd-comment-author, #wpdcom .wpd-blog-customer .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-customer .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-customer .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-customer .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-customer .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-wpseo_manager .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-wpseo_manager .wpd-comment-author, #wpdcom .wpd-blog-wpseo_manager .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-wpseo_manager .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-wpseo_manager .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-wpseo_manager .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-wpseo_manager .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-wpseo_editor .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-wpseo_editor .wpd-comment-author, #wpdcom .wpd-blog-wpseo_editor .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-wpseo_editor .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-wpseo_editor .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-wpseo_editor .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-wpseo_editor .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-campus_fullstripe .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-campus_fullstripe .wpd-comment-author, #wpdcom .wpd-blog-campus_fullstripe .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-campus_fullstripe .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-campus_fullstripe .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-campus_fullstripe .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-campus_fullstripe .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-post_author .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-post_author .wpd-comment-author, #wpdcom .wpd-blog-post_author .wpd-comment-author a{color:#00B38F}#wpdcom .wpd-blog-post_author .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-post_author .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment.wpd-reply .wpd-comment-wrap.wpd-blog-post_author{border-left:3px solid #00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-post_author .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-post_author .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-post_author .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-guest .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-guest .wpd-comment-author, #wpdcom .wpd-blog-guest .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-guest .wpd-comment-subheader{border-top:1px dashed #00B38F}#comments, #respond, .comments-area, #wpdcom{}#wpdcom .ql-editor > *{color:#131416}#wpdcom .ql-editor::before{}#wpdcom .ql-toolbar{border:1px solid #DDDDDD;border-top:none}#wpdcom .ql-container{background:#fdfded;border:1px solid #DDDDDD;border-bottom:none}#wpdcom .wpd-form-row .wpdiscuz-item input[type="text"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="email"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="url"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="color"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="date"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="datetime"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="datetime-local"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="month"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="number"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="time"], #wpdcom textarea, #wpdcom select{background:#fdfded;border:1px solid #DDDDDD;color:#131416}#wpdcom .wpd-form-row .wpdiscuz-item textarea{border:1px solid #DDDDDD}#wpdcom input::placeholder, #wpdcom textarea::placeholder, #wpdcom input::-moz-placeholder, #wpdcom textarea::-webkit-input-placeholder{}#wpdcom .wpd-comment-text{color:#131416}#wpdcom .wpd-thread-head .wpd-thread-info{border-bottom:2px solid #1d75c2}#wpdcom .wpd-thread-head .wpd-thread-info.wpd-reviews-tab svg{fill:#1d75c2}#wpdcom .wpd-thread-head .wpdiscuz-user-settings{border-bottom:2px solid #1d75c2}#wpdcom .wpd-thread-head .wpdiscuz-user-settings:hover{color:#1d75c2}#wpdcom .wpd-comment .wpd-follow-link:hover{color:#1d75c2}#wpdcom .wpd-comment-status .wpd-sticky{color:#1d75c2}#wpdcom .wpd-thread-filter .wpdf-active{color:#1d75c2;border-bottom-color:#1d75c2}#wpdcom .wpd-comment-info-bar{border:1px dashed #4b91cf;background:#e9f2f9}#wpdcom .wpd-comment-info-bar .wpd-current-view i{color:#1d75c2}#wpdcom .wpd-filter-view-all:hover{background:#1d75c2}#wpdcom .wpdiscuz-item .wpdiscuz-rating > label{color:#DDDDDD}#wpdcom .wpdiscuz-item .wpdiscuz-rating:not(:checked) > label:hover, .wpdiscuz-rating:not(:checked) > label:hover ~ label{}#wpdcom .wpdiscuz-item .wpdiscuz-rating > input ~ label:hover, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:not(:checked) ~ label:hover ~ label, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:not(:checked) ~ label:hover ~ label{color:#FFED85}#wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover, #wpdcom .wpdiscuz-item .wpdiscuz-rating > label:hover ~ input:checked ~ label, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked + label:hover ~ label, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover ~ label, .wpd-custom-field .wcf-active-star, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label{color:#FFD700}#wpd-post-rating .wpd-rating-wrap .wpd-rating-stars svg .wpd-star{fill:#DDDDDD}#wpd-post-rating .wpd-rating-wrap .wpd-rating-stars svg .wpd-active{fill:#FFD700}#wpd-post-rating .wpd-rating-wrap .wpd-rate-starts svg .wpd-star{fill:#DDDDDD}#wpd-post-rating .wpd-rating-wrap .wpd-rate-starts:hover svg .wpd-star{fill:#FFED85}#wpd-post-rating.wpd-not-rated .wpd-rating-wrap .wpd-rate-starts svg:hover ~ svg .wpd-star{fill:#DDDDDD}.wpdiscuz-post-rating-wrap .wpd-rating .wpd-rating-wrap .wpd-rating-stars svg .wpd-star{fill:#DDDDDD}.wpdiscuz-post-rating-wrap .wpd-rating .wpd-rating-wrap .wpd-rating-stars svg .wpd-active{fill:#FFD700}#wpdcom .wpd-comment .wpd-follow-active{color:#ff7a00}#wpdcom .page-numbers{color:#555;border:#555 1px solid}#wpdcom span.current{background:#555}#wpdcom.wpd-layout-1 .wpd-new-loaded-comment > .wpd-comment-wrap > .wpd-comment-right{background:#fbfadf}#wpdcom.wpd-layout-2 .wpd-new-loaded-comment.wpd-comment > .wpd-comment-wrap > .wpd-comment-right{background:#fbfadf}#wpdcom.wpd-layout-2 .wpd-new-loaded-comment.wpd-comment.wpd-reply > .wpd-comment-wrap > .wpd-comment-right{background:transparent}#wpdcom.wpd-layout-2 .wpd-new-loaded-comment.wpd-comment.wpd-reply > .wpd-comment-wrap{background:#fbfadf}#wpdcom.wpd-layout-3 .wpd-new-loaded-comment.wpd-comment > .wpd-comment-wrap > .wpd-comment-right{background:#fbfadf}#wpdcom .wpd-follow:hover i, #wpdcom .wpd-unfollow:hover i, #wpdcom .wpd-comment .wpd-follow-active:hover i{color:#1d75c2}#wpdcom .wpdiscuz-readmore{cursor:pointer;color:#1d75c2}.wpd-custom-field .wcf-pasiv-star, #wpcomm .wpdiscuz-item .wpdiscuz-rating > label{color:#DDDDDD}.wpd-wrapper .wpd-list-item.wpd-active{border-top:3px solid #1d75c2}#wpdcom.wpd-layout-2 .wpd-comment.wpd-reply.wpd-unapproved-comment .wpd-comment-wrap{border-left:3px solid #fbfadf}#wpdcom.wpd-layout-3 .wpd-comment.wpd-reply.wpd-unapproved-comment .wpd-comment-right{border-left:1px solid #fbfadf}#wpdcom .wpd-prim-button{background-color:#1d75c2;color:#FFFFFF}#wpdcom .wpd_label__check i.wpdicon-on{color:#1d75c2;border:1px solid #8ebae1}#wpd-bubble-wrapper #wpd-bubble-all-comments-count{color:#1d75c2}#wpd-bubble-wrapper > div{background-color:#1d75c2}#wpd-bubble-wrapper > #wpd-bubble #wpd-bubble-add-message{background-color:#1d75c2}#wpd-bubble-wrapper > #wpd-bubble #wpd-bubble-add-message::before{border-left-color:#1d75c2;border-right-color:#1d75c2}#wpd-bubble-wrapper.wpd-right-corner > #wpd-bubble #wpd-bubble-add-message::before{border-left-color:#1d75c2;border-right-color:#1d75c2}.wpd-inline-icon-wrapper path.wpd-inline-icon-first{fill:#1d75c2}.wpd-inline-icon-count{background-color:#1d75c2}.wpd-inline-icon-count::before{border-right-color:#1d75c2}.wpd-inline-form-wrapper::before{border-bottom-color:#1d75c2}.wpd-inline-form-question{background-color:#1d75c2}.wpd-inline-form{background-color:#1d75c2}.wpd-last-inline-comments-wrapper{border-color:#1d75c2}.wpd-last-inline-comments-wrapper::before{border-bottom-color:#1d75c2}.wpd-last-inline-comments-wrapper .wpd-view-all-inline-comments{background:#1d75c2}.wpd-last-inline-comments-wrapper .wpd-view-all-inline-comments:hover,.wpd-last-inline-comments-wrapper .wpd-view-all-inline-comments:active,.wpd-last-inline-comments-wrapper .wpd-view-all-inline-comments:focus{background-color:#1d75c2}#wpdcom .ql-snow .ql-tooltip[data-mode="link"]::before{content:"Enter link:"}#wpdcom .ql-snow .ql-tooltip.ql-editing a.ql-action::after{content:"Save"}.comments-area{width:auto}
+</style>
+<link rel='stylesheet' id='wpdiscuz-fa-css' href='https://economipedia.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fa.min.css?ver=7.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdiscuz-combo-css-css' href='https://economipedia.com/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-sample-fonts-css' href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400i%2C600%2C700&#038;ver=3.0.846858' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://economipedia.com/wp-includes/css/dashicons.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;display=swap%7CPlayfair+Display%3A400%2C700%2C900&#038;ver=3.0.846858' type='text/css' media='all' />
+<link rel='stylesheet' id='comentarios-css-css' href='https://economipedia.com/statics/css/comentarios.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='definiciones-css-css' href='https://economipedia.com/statics/css/definiciones.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='booststrap-css' href='https://economipedia.com/wp-content/themes/economipedia/css/bootstrap.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-sample-gutenberg-css' href='https://economipedia.com/wp-content/themes/economipedia/lib/gutenberg/front-end.css?ver=3.0.846858' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asl-basic-css' href='https://economipedia.com/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.11' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-ajaxsearchlite-css' href='https://economipedia.com/wp-content/plugins/ajax-search-lite/css/style-underline.css?ver=4.11' type='text/css' media='all' />
+<link rel='stylesheet' id='modal-box-promos-css-css' href='https://economipedia.com/wp-content/plugins/econo-modal-box-domina-tus-finanzas-marzo/css/modal-box-promos.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://economipedia.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<script type='text/javascript' src='https://economipedia.com/wp-includes/js/jquery/jquery.js' id='jquery-js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/js/iziModal.min.js?ver=6.1.1' id='modal-box-js-js'></script>
+<script data-cfasync="false" type='text/javascript' src='https://economipedia.com/wp-content/plugins/nelio-ab-testing/assets/dist/js/main.js?ver=8913661385654537688405eb9de5bd9b' id='nelio-ab-testing-main-js'></script>
+<script data-cfasync="false" type='text/javascript' id='nelio-ab-testing-main-js-after'>
+		window.nabAddSingleAction( "main-init-available", function() { nab.init( {"alternativePostIds":[35181],"experiments":{"187783":{"alternatives":[{"menuId":3348},{"name":"Suscr\u00edbete ya","menuId":4099}],"goals":[{"id":0,"conversionActions":[{"type":"nab\/custom-event","attributes":{"eventName":"llegar-carrito"}}]}],"segments":[{"id":0,"segmentationRules":[{"type":"nab\/location","attributes":{"condition":"is-equal-to","location":[{"value":"ES","label":"Espa\u00f1a"}]}},{"type":"nab\/device-type","attributes":{"condition":"is-equal-to","values":[{"value":"desktop","label":"Escritorio"}]}}]}],"type":"nab\/menu"}},"heatmapTracking":[],"optimizeXPath":true,"gdprCookie":false,"participationChance":100,"siteId":"51a958b0-2bef-46b8-8918-613e5ff10f60","throttle":{"global":0,"woocommerce":5},"timezone":"Europe\/Madrid","trackingUrl":"https:\/\/api.nelioabtesting.com\/v1\/site\/51a958b0-2bef-46b8-8918-613e5ff10f60\/event","useSendBeacon":true} ); } );
+		window.nabAddSingleAction( "main-ready", function() { nab.view( [] ); } );
+</script>
+<script type='text/javascript' id='addtoany-core-js-before'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Compartir",
+	Save: "Guardar",
+	Subscribe: "Suscribir",
+	Email: "Correo electrónico",
+	Bookmark: "Marcador",
+	ShowAll: "Mostrar todo",
+	ShowLess: "Mostrar menos",
+	FindServices: "Encontrar servicio(s)",
+	FindAnyServiceToAddTo: "Encuentra al instante cualquier servicio para añadir a",
+	PoweredBy: "Funciona con",
+	ShareViaEmail: "Compartir por correo electrónico",
+	SubscribeViaEmail: "Suscribirse a través de correo electrónico",
+	BookmarkInYourBrowser: "Añadir a marcadores de tu navegador",
+	BookmarkInstructions: "Presiona «Ctrl+D» o «\u2318+D» para añadir esta página a marcadores",
+	AddToYourFavorites: "Añadir a tus favoritos",
+	SendFromWebOrProgram: "Enviar desde cualquier dirección o programa de correo electrónico ",
+	EmailProgram: "Programa de correo electrónico",
+	More: "Más&#8230;",
+	ThanksForSharing: "¡Gracias por compartir!",
+	ThanksForFollowing: "¡Gracias por seguirnos!"
+};
+
+a2a_config.icon_color="#1d75c2,#ffffff";
+</script>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' async src='https://economipedia.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/econo-toc/js/slugify.js?ver=6.1.1' id='slugify-js'></script>
+<script type='text/javascript' id='pld-frontend-js-extra'>
+/* <![CDATA[ */
+var pld_js_object = {"admin_ajax_url":"https:\/\/economipedia.com\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"47b0ebaa92"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/posts-like-dislike/js/pld-frontend.js?ver=1.1.0' id='pld-frontend-js'></script>
+<script type='text/javascript' src='https://economipedia.com/statics/js/sticky-menu.js?ver=6.1.1' id='sticky-menu-js-js'></script>
+<script type='text/javascript' src='https://economipedia.com/statics/js/custom.js?ver=6.1.1' id='custom-js-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/themes/economipedia/js/bootstrap.bundle.min.js?ver=6.1.1' id='booststrap-js'></script>
+<link rel="https://api.w.org/" href="https://economipedia.com/wp-json/" /><link rel="alternate" type="application/json" href="https://economipedia.com/wp-json/wp/v2/posts/35181" /><link rel="alternate" type="application/json+oembed" href="https://economipedia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feconomipedia.com%2Fdefiniciones%2Fbolsa-de-valores-de-nueva-york-nyse.html" />
+<link rel="alternate" type="text/xml+oembed" href="https://economipedia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feconomipedia.com%2Fdefiniciones%2Fbolsa-de-valores-de-nueva-york-nyse.html&#038;format=xml" />
+<meta name="economipedia_country_code" content="MX" />
+<meta name="economipedia_currency_code" content="MXN" />
+<script>
+		window.dataLayer = window.dataLayer || [];
+		dataLayer.push({
+			'mainPostCategory': 'Bolsa'
+		});
+		</script><script>
+		window.dataLayer = window.dataLayer || [];
+		dataLayer.push({
+		'contentType': 'Otros contenidos'
+		});
+		</script><style></style><!-- Stream WordPress user activity plugin v3.9.2 -->
+<style type="text/css" media="screen"></style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"visitorLoginState":"logged-out","visitorType":"visitor-logged-out","pagePostType":"post","pagePostType2":"single-post","pageCategory":["bolsa","definiciones","inversion"],"pagePostAuthor":"José Francisco López","pagePostDate":"27 de mayo de 2018","pagePostDateYear":"2018","pagePostDateMonth":"05","pagePostDateDay":"27","pagePostDateDayName":"domingo","pagePostDateHour":"23","pagePostDateMinute":"32","pagePostDateIso":"2018-05-27T23:32:55+02:00","pagePostDateUnix":1527463975};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GJV7TV');
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload { opacity: 0; }
+				.lazyloading {
+					border: 0 !important;
+					opacity: 1;
+					background: rgba(255, 255, 255, 0) url('https://economipedia.com/wp-content/plugins/wp-smushit/app/assets/images/smush-lazyloader-1.gif') no-repeat center !important;
+					background-size: 16px auto !important;
+					min-width: 16px;
+				}
+					</style>
+			<!-- Yieldlove -->
+	<script async='async' src="//cdn-a.yieldlove.com/v2/yieldlove.js?economipedia.com"></script>
+	<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+	<script>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		googletag.cmd.push(function() {
+			googletag.pubads().disableInitialLoad();
+			googletag.enableServices();
+		});
+	</script>
+
+	<!-- Agencia nueva DDT -->
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5380618669686726"
+     crossorigin="anonymous"></script>
+	<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+	<script>
+	window.googletag = window.googletag || {cmd: []};
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/22634706711/Economipedia_banner_300x250', [300, 250], 'div-gpt-ad-1654849136483-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+	</script>
+
+	<!-- Mobusi -->
+	<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+	<script>
+	window.googletag = window.googletag || {cmd: []};
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/22634706711/Economipedia_video_1x1', [1, 1], 'div-gpt-ad-1652874939101-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+	</script>
+	                <style>
+                    
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+						font-size: 0px !important;
+						color: rgba(0, 0, 0, 0);
+					}
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+						font-size: 11px !important;
+						position: absolute;
+						top: 0;
+						left: 0;
+						z-index: 1;
+					}
+					.asl_w_container {
+						width: 100%;
+						margin: 20px 0px 0px 0px;
+						min-width: 200px;
+					}
+					div[id*='ajaxsearchlite'].asl_m {
+						width: 100%;
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+						font-weight: bold;
+						color: rgb(0, 0, 0);
+						background-color: rgb(234, 234, 33);
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results .results img.asl_image {
+						width: 70px;
+						height: 70px;
+						object-fit: cover;
+					}
+					div.asl_r .results {
+						max-height: none;
+					}
+				
+						div.asl_r.asl_w.vertical .results .item::after {
+							display: block;
+							position: absolute;
+							bottom: 0;
+							content: '';
+							height: 1px;
+							width: 100%;
+							background: #D8D8D8;
+						}
+						div.asl_r.asl_w.vertical .results .item.asl_last_item::after {
+							display: none;
+						}
+					                </style>
+                <link rel="icon" href="https://economipedia.com/wp-content/uploads/Favicon-Economipedia-Azul-75x75.png" sizes="32x32" />
+<link rel="icon" href="https://economipedia.com/wp-content/uploads/Favicon-Economipedia-Azul.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://economipedia.com/wp-content/uploads/Favicon-Economipedia-Azul.png" />
+<meta name="msapplication-TileImage" content="https://economipedia.com/wp-content/uploads/Favicon-Economipedia-Azul.png" />
+    <div class="modal fade" id="econoModalLogin" tabindex="-1" role="dialog" aria-labelledby="econoModalLoginTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+
+                                    <div class="modal-header">
+
+                        
+                                                    <h5 class="modal-title" id="econoModalLoginLongTitle">Iniciar sesión</h5>
+                        
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times</span>
+                            </button>
+                        
+                    </div>
+                
+
+                
+                    <div class="modal-body">
+                                                
+                        <form name="loginform-modal-login" id="loginform-modal-login" action="https://economipedia.com/wp-login.php" method="post"><p class="login-username">
+				<label for="user_login-modal-login">Nombre de usuario o correo electrónico</label>
+				<input type="text" name="log" id="user_login-modal-login" autocomplete="username" class="input" value="" size="20" />
+			</p><p class="login-password">
+				<label for="user_pass-modal-login">Contraseña</label>
+				<input type="password" name="pwd" id="user_pass-modal-login" autocomplete="current-password" class="input" value="" size="20" />
+			</p><p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme-modal-login" value="forever" /> Recuérdame</label></p><p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit-modal-login" class="button button-primary" value="Acceder" />
+				<input type="hidden" name="redirect_to" value="https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html" />
+			</p></form>
+                        <p><a href='https://economipedia.com/wp-login.php?action=lostpassword' class='forgot'>¿Olvidaste la contraseña?</a></p>
+                    </div>
+                
+                
+            </div>
+        </div>
+    </div>
+		<style type="text/css" id="wp-custom-css">
+			.ep-highlight{
+	background: #fbf1c3;
+}
+
+.page-id-144675 #econo-simple-login-form.dark .form-check label, .page-id-144675 #econo-simple-login-form.dark .form-check label a{
+	
+	color: black;
+}
+		</style>
+		</head>
+<body class="post-template-default single single-post postid-35181 single-format-standard wp-custom-logo wp-embed-responsive content-sidebar genesis-breadcrumbs-hidden genesis-footer-widgets-visible bolsa-de-valores-de-nueva-york-nyse guest site-principal has-no-blocks"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<!-- GTM Container placement set to automatic -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe  height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true" data-src="https://www.googletagmanager.com/ns.html?id=GTM-5GJV7TV" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- GTM Container placement set to automatic -->
+<!-- Google Tag Manager (noscript) --><div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Saltar a la navegación principal</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Saltar al contenido principal</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Saltar a la barra lateral principal</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Saltar al pie de página</a></li></ul><header class="site-header"><div class="wrap"><div class="title-area"><a href="https://economipedia.com/" class="custom-logo-link" rel="home"><img width="250" height="56"   alt="Logo Economipedia Crema" decoding="async" data-src="https://economipedia.com/wp-content/uploads/Logo-Economipedia-Crema.png" class="custom-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="250" height="56" src="https://economipedia.com/wp-content/uploads/Logo-Economipedia-Crema.png" class="custom-logo" alt="Logo Economipedia Crema" decoding="async" /></noscript></a><p class="site-title"><a href="https://economipedia.com/">Economipedia</a></p><p class="site-description">Haciendo fácil la economía</p></div><div class="widget-area header-widget-area">	<div class="custom-menu-responsive">
+
+		<div id="cta-menu" class="campus_off cta menu-item">
+			<a href="https://economipedia.com/registro">Registro</a>
+		</div><!-- .cta -->
+
+		<!--<div id="buscador-menu-responsive" class="campus_on buscador-menu-responsive">
+			<span class="dashicons dashicons-search"></span>
+					</div>--><!-- .buscador-menu-responsive -->
+
+		<div id="cuenta-menu-responsive" class="login cuenta-menu-responsive">
+			<a href="https://economipedia.com/cuenta"><span class="dashicons dashicons-admin-users"></span></a>
+					</div><!-- .cuenta-menu-responsive -->
+
+	</div><!-- .custom-menu-responsive -->
+</div><nav class="nav-primary" aria-label="Principal" id="genesis-nav-primary"><div class="wrap"><ul id="menu-menu-principal" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-84134" class="campus_off cta test_registro menu-item menu-item-type-post_type menu-item-object-page menu-item-84134"><a href="https://economipedia.com/registro"><span >Precios</span></a></li>
+<li id="menu-item-148442" class="logout alogin cta cta-alt menu-item menu-item-type-custom menu-item-object-custom menu-item-148442"><a href="#login"><span >Iniciar sesión</span></a></li>
+<li id="menu-item-149877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149877"><a href="https://economipedia.com/campus/"><span >Cursos</span></a></li>
+<li id="menu-item-73595" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-73595"><a href="https://economipedia.com/definiciones"><span >Diccionario</span></a></li>
+<li id="menu-item-60537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60537"><a href="https://economipedia.com/guias"><span >Guías</span></a></li>
+<li id="menu-item-134638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-134638"><a href="https://economipedia.com/actual"><span >Análisis</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-134639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134639"><a href="https://economipedia.com/actual"><span >Actualidad</span></a></li>
+	<li id="menu-item-60507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60507"><a href="https://economipedia.com/mercado"><span >Mercados</span></a></li>
+	<li id="menu-item-60508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60508"><a href="https://economipedia.com/cultura"><span >Cultura</span></a></li>
+	<li id="menu-item-60522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60522"><a href="https://economipedia.com/datos-economicos"><span >Rankings</span></a></li>
+</ul>
+</li>
+<li id="menu-item-98999" class="login mobile-hidden menu-item menu-item-type-post_type menu-item-object-page menu-item-98999"><a href="https://economipedia.com/cuenta"><span ><span class="dashicons dashicons-admin-users"></span></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-last buscador search"><div class="asl_w_container asl_w_container_1">
+	<div id='ajaxsearchlite1'
+		 data-id="1"
+		 data-instance="1"
+		 class="asl_w asl_m asl_m_1 asl_m_1_1">
+		<div class="probox">
+
+	
+	<button class='promagnifier' aria-label="Search magnifier button">
+				<div class='innericon'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22" height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+					<path d="M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037
+						C385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041
+						c34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056
+						c65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041
+						z"/>
+				</svg>
+		</div>
+	</button>
+
+	
+	
+	<div class='prosettings' style='display:none;' data-opened=0>
+				<div class='innericon'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22" height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+					<polygon transform = "rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 "/>
+				</svg>
+		</div>
+	</div>
+
+	
+	
+	<div class='proinput'>
+        <form role="search" action='#' autocomplete="off"
+			  aria-label="Search form">
+			<input aria-label="Search input"
+				   type='search' class='orig'
+				   name='phrase'
+				   placeholder='Buscar...'
+				   value=''
+				   autocomplete="off"/>
+			<input aria-label="Search autocomplete input"
+				   type='text'
+				   class='autocomplete'
+				   tabindex="-1"
+				   name='phrase'
+				   value=''
+				   autocomplete="off" disabled/>
+			<input type='submit' value="Start search" style='width:0; height: 0; visibility: hidden;'>
+		</form>
+	</div>
+
+	
+	
+	<div class='proloading'>
+
+		<div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+
+			</div>
+
+			<div class='proclose'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+				 y="0px"
+				 width="12" height="12" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+				 xml:space="preserve">
+				<polygon points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 "/>
+			</svg>
+		</div>
+	
+	
+</div>	</div>
+	<div class='asl_data_container' style="display:none !important;">
+		<div class="asl_init_data wpdreams_asl_data_ct"
+	 style="display:none !important;"
+	 id="asl_init_id_1"
+	 data-asl-id="1"
+	 data-asl-instance="1"
+	 data-asldata="ew0KCSJob21ldXJsIjogImh0dHBzOi8vZWNvbm9taXBlZGlhLmNvbS8iLA0KCSJyZXN1bHRzdHlwZSI6ICJ2ZXJ0aWNhbCIsDQoJInJlc3VsdHNwb3NpdGlvbiI6ICJob3ZlciIsDQoJIml0ZW1zY291bnQiOiAxMCwNCgkiY2hhcmNvdW50IjogIDMsDQoJImhpZ2hsaWdodCI6IDAsDQoJImhpZ2hsaWdodHdob2xld29yZHMiOiAxLA0KCSJzaW5nbGVIaWdobGlnaHQiOiAwLA0KCSJzY3JvbGxUb1Jlc3VsdHMiOiB7DQoJCSJlbmFibGVkIjogMCwNCgkJIm9mZnNldCI6IDANCgl9LA0KCSJyZXN1bHRhcmVhY2xpY2thYmxlIjogMSwNCgkiYXV0b2NvbXBsZXRlIjogew0KCQkiZW5hYmxlZCIgOiAxLA0KCQkibGFuZyIgOiAiZXMiLA0KCQkidHJpZ2dlcl9jaGFyY291bnQiIDogMA0KCX0sDQoJIm1vYmlsZSI6IHsNCgkJIm1lbnVfc2VsZWN0b3IiOiAiI21lbnUtdG9nZ2xlIg0KCX0sDQoJInRyaWdnZXIiOiB7DQoJCSJjbGljayI6ICJyZXN1bHRzX3BhZ2UiLA0KCQkiY2xpY2tfbG9jYXRpb24iOiAic2FtZSIsDQoJCSJ1cGRhdGVfaHJlZiI6IDAsDQoJCSJyZXR1cm4iOiAicmVzdWx0c19wYWdlIiwNCgkJInJldHVybl9sb2NhdGlvbiI6ICJzYW1lIiwNCgkJImZhY2V0IjogMSwNCgkJInR5cGUiOiAxLA0KCQkicmVkaXJlY3RfdXJsIjogIj9zPXtwaHJhc2V9IiwNCgkJImRlbGF5IjogMzAwDQoJfSwNCiAgICAiYW5pbWF0aW9ucyI6IHsNCiAgICAgICAgInBjIjogew0KICAgICAgICAgICAgInNldHRpbmdzIjogew0KICAgICAgICAgICAgICAgICJhbmltIiA6ICJmYWRlZHJvcCIsDQogICAgICAgICAgICAgICAgImR1ciIgIDogMzAwDQogICAgICAgICAgICB9LA0KICAgICAgICAgICAgInJlc3VsdHMiIDogew0KCQkJCSJhbmltIiA6ICJmYWRlZHJvcCIsDQoJCQkJImR1ciIgIDogMzAwDQogICAgICAgICAgICB9LA0KICAgICAgICAgICAgIml0ZW1zIiA6ICJ2b2lkYW5pbSINCiAgICAgICAgfSwNCiAgICAgICAgIm1vYiI6IHsNCiAgICAgICAgICAgICJzZXR0aW5ncyI6IHsNCiAgICAgICAgICAgICAgICAiYW5pbSIgOiAiZmFkZWRyb3AiLA0KICAgICAgICAgICAgICAgICJkdXIiICA6IDMwMA0KICAgICAgICAgICAgfSwNCiAgICAgICAgICAgICJyZXN1bHRzIiA6IHsNCgkJCQkiYW5pbSIgOiAiZmFkZWRyb3AiLA0KCQkJCSJkdXIiICA6IDMwMA0KICAgICAgICAgICAgfSwNCiAgICAgICAgICAgICJpdGVtcyIgOiAidm9pZGFuaW0iDQogICAgICAgIH0NCiAgICB9LA0KCSJhdXRvcCI6IHsNCgkJInN0YXRlIjogImRpc2FibGVkIiwNCgkJInBocmFzZSI6ICIiLA0KCQkiY291bnQiOiAxCX0sDQogICAgInJlc1BhZ2UiOiB7DQogICAgICAgICJ1c2VBamF4IjogMCwNCiAgICAgICAgInNlbGVjdG9yIjogIiNtYWluIiwNCiAgICAgICAgInRyaWdnZXJfdHlwZSI6IDEsDQogICAgICAgICJ0cmlnZ2VyX2ZhY2V0IjogMSwNCiAgICAgICAgInRyaWdnZXJfbWFnbmlmaWVyIjogMCwNCiAgICAgICAgInRyaWdnZXJfcmV0dXJuIjogMCAgICB9LA0KCSJyZXN1bHRzU25hcFRvIjogImxlZnQiLA0KICAgICJyZXN1bHRzIjogew0KICAgICAgICAid2lkdGgiOiAiYXV0byIsDQogICAgICAgICJ3aWR0aF90YWJsZXQiOiAiYXV0byIsDQogICAgICAgICJ3aWR0aF9waG9uZSI6ICJhdXRvIg0KICAgIH0sDQoJInNldHRpbmdzaW1hZ2Vwb3MiOiAicmlnaHQiLA0KCSJjbG9zZU9uRG9jQ2xpY2siOiAxLA0KCSJvdmVycmlkZXdwZGVmYXVsdCI6IDEsDQoJIm92ZXJyaWRlX21ldGhvZCI6ICJwb3N0Ig0KfQ0K"></div>	<div id="asl_hidden_data">
+		<svg style="position:absolute" height="0" width="0">
+			<filter id="aslblur">
+				<feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+			</filter>
+		</svg>
+		<svg style="position:absolute" height="0" width="0">
+			<filter id="no_aslblur"></filter>
+		</svg>
+	</div>
+	</div>
+
+	<div id='ajaxsearchliteres1'
+	 class='vertical wpdreams_asl_results asl_w asl_r asl_r_1 asl_r_1_1'>
+
+	
+	<div class="results">
+
+		
+		<div class="resdrg">
+		</div>
+
+		
+	</div>
+
+	
+					<p class='showmore'>
+			<a>Más resultados...</a>
+		</p>
+			
+</div>
+
+	<div id='__original__ajaxsearchlitesettings1'
+		 data-id="1"
+		 class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_1">
+		<form name='options'
+	  aria-label="Search settings form"
+	  autocomplete = 'off'>
+
+	
+	
+	<input type="hidden" name="filters_changed" style="display:none;" value="0">
+	<input type="hidden" name="filters_initial" style="display:none;" value="1">
+
+	<div class="asl_option_inner hiddend">
+		<input type='hidden' name='qtranslate_lang' id='qtranslate_lang1'
+			   value='0'/>
+	</div>
+
+	
+	
+	<fieldset class="asl_sett_scroll">
+		<legend style="display: none;">Generic selectors</legend>
+		<div class="asl_option">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="exact" id="set_exactonly1"
+					   title="Exact matches only"
+					   name="asl_gen[]" />
+				<label for="set_exactonly1">Exact matches only</label>
+			</div>
+			<div class="asl_option_label">
+				Exact matches only			</div>
+		</div>
+		<div class="asl_option">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="title" id="set_intitle1"
+					   title="Search in title"
+					   name="asl_gen[]"  checked="checked"/>
+				<label for="set_intitle1">Search in title</label>
+			</div>
+			<div class="asl_option_label">
+				Search in title			</div>
+		</div>
+		<div class="asl_option">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="content" id="set_incontent1"
+					   title="Search in content"
+					   name="asl_gen[]" />
+				<label for="set_incontent1">Search in content</label>
+			</div>
+			<div class="asl_option_label">
+				Search in content			</div>
+		</div>
+		<div class="asl_option_inner hiddend">
+			<input type="checkbox" value="excerpt" id="set_inexcerpt1"
+				   title="Search in excerpt"
+				   name="asl_gen[]" />
+			<label for="set_inexcerpt1">Search in excerpt</label>
+		</div>
+	</fieldset>
+	<fieldset class="asl_sett_scroll">
+		<legend style="display: none;">Post Type Selectors</legend>
+					<div class="asl_option">
+				<div class="asl_option_inner">
+					<input type="checkbox" value="post"
+						   id="1customset_11"
+						   title="Search in posts"
+						   name="customset[]" checked="checked"/>
+					<label for="1customset_11">Search in posts</label>
+				</div>
+				<div class="asl_option_label">
+					Search in posts				</div>
+			</div>
+						<div class="asl_option">
+				<div class="asl_option_inner">
+					<input type="checkbox" value="page"
+						   id="1customset_12"
+						   title="Search in pages"
+						   name="customset[]" />
+					<label for="1customset_12">Search in pages</label>
+				</div>
+				<div class="asl_option_label">
+					Search in pages				</div>
+			</div>
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="curso"
+					   id="1customset_13"
+					   title="Hidden option, ignore please"
+					   name="customset[]" checked="checked"/>
+				<label for="1customset_13">Hidden</label>
+			</div>
+			<div class="asl_option_label hiddend"></div>
+
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="guia"
+					   id="1customset_14"
+					   title="Hidden option, ignore please"
+					   name="customset[]" checked="checked"/>
+				<label for="1customset_14">Hidden</label>
+			</div>
+			<div class="asl_option_label hiddend"></div>
+
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="manual"
+					   id="1customset_15"
+					   title="Hidden option, ignore please"
+					   name="customset[]" checked="checked"/>
+				<label for="1customset_15">Hidden</label>
+			</div>
+			<div class="asl_option_label hiddend"></div>
+
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="libroaffinity"
+					   id="1customset_16"
+					   title="Hidden option, ignore please"
+					   name="customset[]" checked="checked"/>
+				<label for="1customset_16">Hidden</label>
+			</div>
+			<div class="asl_option_label hiddend"></div>
+
+				</fieldset>
+	</form>
+	</div>
+</div></li></ul></div></nav></div></header><style>
+    .banner-campus.bg-danger {
+        background-color: var(--color1, #1D75C2) !important;
+    }
+
+    .banner-campus a.btn {
+        background-color: var(--color7, #F1583F) !important;
+    }
+
+    @media (max-width: 960px) {
+        .banner-campus {
+            margin-top: 67px !important;
+        }
+
+        .banner-campus.d-none {
+            display: block !important;
+        }
+
+        .banner-campus .container {
+            max-width: 100%;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .banner-campus .container>.d-flex>div {
+            flex-basis: 100%;
+        }
+    }
+</style>
+
+<div class="faldon banner-campus bg-danger link-light d-none d-md-block" style="margin-top: 77px;">
+
+    <div class="container pt-2" href="https://economipedia.com/registro">
+
+        <div class="d-flex justify-content-evenly row p-2">
+
+            <div class="col-6 col-lg-4">
+
+            Aprende economía, inversión y finanzas de forma fácil y entretenida con nuestros cursos.
+
+            </div>
+
+            <div class="d-flex justify-content-evenly col-6 col-lg-4 p-2">
+
+
+                <!-- <a href="https://economipedia.com/registro?utm_source=economipedia&utm_medium=banner&utm_campaign=banner" class="btn btn-success btn-lg" style="background-color: var(--color10)">Suscribirse</a> -->
+                <a href="https://economipedia.com/campus?utm_source=web&utm_medium=faldon&utm_campaign=faldon_campus" class="btn btn-success btn-lg" style="background-color: var(--color10)">MÁS INFORMACIÓN AQUÍ</a>
+
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+<div class="site-inner">
+	<div class="banner banner-cabecera mobile desktop ad-v2" data-madid="m_320x100_1" data-msizes="320x100,320x50" data-dadid="d_970x250_1" data-dsizes="970x250,970x90,728x90" data-adlocation="bannercabecera"></div>
+
+<div class="content-sidebar-wrap"><main class="content" id="genesis-content"><div itemscope itemtype="http://schema.org/DefinedTerm"><article class="post-35181 post type-post status-publish format-standard has-post-thumbnail category-bolsa category-definiciones category-inversion entry" aria-label="Bolsa de valores de Nueva York (NYSE)"><header class="entry-header"><h1 class="entry-title"><span itemprop="name">Bolsa de valores de Nueva York (NYSE)</span></h1>
+</header>
+	<style>
+
+		.autores-wrap{
+
+			margin-top: 1rem;
+
+		}
+
+		.post-meta {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			align-items: flex-start;
+		}
+	</style>
+
+<div class="autores-wrap">
+        <style>
+            .autores {
+
+                display: flex;
+
+                flex-wrap: wrap;
+
+                justify-content: space-between;
+
+                align-items: flex-start;
+
+                flex-direction: column;
+
+            }
+        </style>
+<div class='autores'><div class="autor">Redactado por: <a href="https://economipedia.com/author/JF.lopez">José Francisco López</a></div><div class="revisor">Revisado por: <a href='https://economipedia.com/author/sevillaa'> Andrés Sevilla Arias</a></div><div class="fecha_revision">Actualizado el 27 mayo 2018</div></div> <!-- .autores --></div><div class="post-meta"><div class="tiempo-lectura"><i class="far fa-eye"></i> 3 min</div></div><div class='content-tree'>            <aside class="econo-content-tree">
+                <ul><li><a href="#origen-de-la-nyse" class="level-1" data-profundidad="level-1">Origen de la NYSE</a></li><li><a href="#indice-nyse-composite" class="level-1" data-profundidad="level-1">Índice NYSE composite</a></li></ul>            </aside>
+    </div><div class="entry-content"><p><div class="intro"><span itemprop="description"><p><strong>La <a href="https://economipedia.com/definiciones/bolsa-de-valores.html">bolsa de valores</a> de Nueva York, conocida en inglés como New York Stock Exchange (NYSE), representa el mercado de valores más grande del mundo.</strong></p>
+</span></div><!-- .intro --><p><span id="more-35181"></span></p>
+<p>La bolsa de valores de Nueva York, que se conoce en la jerga financiera como NYSE, es el mercado de valores más grande del mundo tanto en volumen monetario como en empresas cotizadas. En ella no solo cotizan los valores más importantes de Estados Unidos, sino también del mundo.</p>
+<div itemscope itemtype="https://schema.org/Question"><h2><span itemprop="subjectOf"><span itemprop="name">Origen de la NYSE</span></span></h2></div>
+<p>Para entender el origen de la NYSE hay que remontarse al año 1790. Estados Unidos, tras la Guerra de la Independencia, necesitaba repagar las deudas en las que había incurrido. Así, el gobierno estadounidense emitió 80 millones de dólares en <a href="https://economipedia.com/definiciones/bono.html">bonos</a>. En aquel momento nació el mercado de valores americano.</p><div class='anuncio-intext sin-etiqueta'><h2>Sólo el 2% de la población sabe lo que quiere y cómo lo va a conseguir ¿y tú?</h2>
+<p>Tu dinero = tu tiempo + tu talento. A lo último, te ayudamos nosotros.</p>
+<p><span style="font-weight: 400;">Mejora tu conocimiento en finanzas aprendiendo de los mejores profesionales, con cursos efectivos y entretenidos.</span></p>
+<div><a id="campus_generico" class="button click-intext native campus_generico" rel="nofollow" href="https://economipedia.com/campus/?utm_source=web&utm_medium=intext&utm_campaign=intext_campus_generico" target="_blank">Ver cursos</a></div></div><p></p><div class="banner banner-intext paragraph-ad mobile ad-v2" data-madid="m_300x250_1" data-msizes="300x250" data-adlocation="p4"></div>
+<p>Tan solo dos años después, el 17 de mayo de 1792, 24 corredores de bolsa se unieron mediante el acuerdo de Buttonwood. A partir de ese momento comenzaron negociarse los primeros valores. Aquellos valores fueron el Banco de Ámerica del Norte y el Primer banco de los Estados Unidos.</p><div class="banner banner-intext paragraph-ad desktop ad-v2" data-dadid="d_300x250_2" data-dsizes="300x250" data-adlocation="p5"></div>
+<p>En 1817 los corredores que operan bajo el acuerdo de Buttonwood renegocian algunos aspectos del acuerdo y se reorganizan. Entre 1817 y 1865 la NYSE tuvo sede en varios lugares, pero sería en este último año, cuando se instalaría en su actual emplazamiento: Wall Street.</p>
+<p>A partir de ese momento, la bolsa de valores de Nueva York se ha ido desarrollando social, legal, económica y tecnológicamente. Actualmente, se considera la bolsa de valores más vanguardista y fiable del mundo.</p>
+<div itemscope itemtype="https://schema.org/Question"><h2><span itemprop="subjectOf"><span itemprop="name">Índice NYSE composite</span></span></h2></div>
+<p>Es el índice que incluye todos los valores de la bolsa de Nueva York, aproximadamente 3.200 valores.</p>
+						<!-- DDT -->
+						<div class='banner banner-intext'>
+							<!-- /22634706711/Economipedia_banner_300x250 -->
+							<div id='div-gpt-ad-1654849136483-0' style='min-width: 300px; min-height: 250px;'>
+							<script>
+								googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654849136483-0'); });
+							</script>
+							</div>
+						</div>
+					
+<p>Al igual que existen otros indicadores como el <a href="https://economipedia.com/definiciones/sp-500.html">Standard &amp; Poors 500</a> o el <a href="https://economipedia.com/definiciones/dow-jones.html">Dow Jones</a>, que son <a href="https://economipedia.com/definiciones/indice-bursatil.html">índices bursátiles</a> de referencia, también existen el NYSE composite. Este índice no es tan popular entre los inversores ya que no recoge valores seleccionados, sino que recoge todos los valores que cotizan en la bolsa.</p><div class="banner banner-intext paragraph-ad mobile ad-v2" data-madid="m_300x250_3" data-msizes="300x250" data-adlocation="p9"></div>
+<p>A menudo, los inversores buscan índices de referencia que les ofrezcan información sintetizada sobre los valores más importantes. Y es por eso que no es tan popular. Sin embargo, es uno de los índices más importantes y suele utilizarse en los indicadores de amplitud de mercado. A través del siguiente enlace se puede acceder a la fuente oficial del índice ofrecido en su página web: <a href="https://www.nyse.com/quote/index/NYA">NYSE Composite</a></p>
+<p>Además la NYSE ofrece también otros índices según el sector al que pertenecen, el tipo de activo o a la <a href="https://economipedia.com/definiciones/capitalizacion-bursatil.html">capitalización bursátil</a>. Por ejemplo:</p>
+<ul>
+<li><strong>Energy:</strong> Incluye las empresas del sector de la energía, como las petroleras o eléctricas.</li>
+<li><strong>Financial Sector:</strong> Esta formado por las empresas del sector financiero como los bancos.</li>
+<li><strong>Healthcare:</strong> Está compuesto por las empresas relacionadas con la salud como las farmacéuticas.</li>
+<li><strong>World Leaders:</strong> En él se encuentran las empresas más importantes a nivel mundial.</li>
+<li><strong>Arca Gold:</strong> Es un índice sobre el oro como materia prima.</li>
+</ul>
+<p>En definitiva, la bolsa de valores de Nueva York (NYSE) es una referencia financiera en el mundo. Es importante su conocimiento y manejo de datos para los traders e inversores. Pero también, para cualquier economista.</p><div class="banner banner-intext paragraph-ad mobile desktop ad-v2" data-madid="m_300x250_4" data-msizes="300x250" data-dadid="d_300x250_3" data-dsizes="300x250" data-adlocation="p12"></div>
+</p></div><div class="post-meta meta-footer"><div class="categoria"><i class="fas fa-folder-open"></i> <ul class="post-categories">
+	<li><a href="https://economipedia.com/definiciones/inversion/bolsa" rel="category tag">Bolsa</a></li>
+	<li><a href="https://economipedia.com/definiciones" rel="category tag">Diccionario económico</a></li>
+	<li><a href="https://economipedia.com/definiciones/inversion" rel="category tag">Inversión</a></li></ul></div><div class="social-share"><div class="social-icons share">
+	<a class="facebook" href="https://www.facebook.com/sharer.php?u=https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html" target="_blank">
+	<i class="fab fa-facebook-f"></i>
+	</a>
+
+	<a class="twitter" href="https://twitter.com/share?url=https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html&text=Bolsa de valores de Nueva York (NYSE)&hashtags=economipedia&via=economipedia" target="_blank">
+	<i class="fab fa-twitter"></i>
+	</a>
+
+	<a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html" target="_blank">
+	<i class="fab fa-linkedin"></i>
+	</a>
+	
+	<a class="whatsapp" href="https://wa.me/?text=Bolsa de valores de Nueva York (NYSE) https://economipedia.com/definiciones/bolsa-de-valores-de-nueva-york-nyse.html" target="_blank">
+	<i class="fab fa-whatsapp"></i>
+	</a>
+
+	</div></div>            <aside class="econo-content-tree">
+                <ul><li><a href="#origen-de-la-nyse" class="level-1" data-profundidad="level-1">Origen de la NYSE</a></li><li><a href="#indice-nyse-composite" class="level-1" data-profundidad="level-1">Índice NYSE composite</a></li></ul>            </aside>
+    </div></article></div><!-- itemscope -->    <div class="wpdiscuz_top_clearing"></div>
+    <div id='comments' class='comments-area'><div id='respond' style='width: 0;height: 0;clear: both;margin: 0;padding: 0;'></div>    <div id="wpdcom" class="wpdiscuz_unauth wpd-default wpd-layout-1 wpd-comments-open">
+                <style>
+            .hpwc {
+                opacity: 0;
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 0;
+                width: 0;
+                z-index: -1;
+            }
+        </style>
+		            <div class="wc_social_plugin_wrapper">
+                            </div>
+            <div class="wpd-form-wrap">
+                <div class="wpd-form-head">
+                                        <div class="wpd-auth">
+                                                <div class="wpd-login">
+                            <a rel="nofollow" href="https://economipedia.com/wp-login.php?redirect_to=https%3A%2F%2Feconomipedia.com%2Fdefiniciones%2Fbolsa-de-valores-de-nueva-york-nyse.html"><i class='fas fa-sign-in-alt'></i> Login</a>                        </div>
+                    </div>
+                </div>
+                                        <div class="wpd-form wpd-form-wrapper wpd-main-form-wrapper" id='wpd-main-form-wrapper-0_0'>
+                                </div>
+                <div id="wpdiscuz_hidden_secondary_form" style="display: none;">
+			        <div class="wpd-form wpd-form-wrapper wpd-secondary-form-wrapper" id='wpd-secondary-form-wrapper-wpdiscuzuniqueid' style='display: none;'>
+                            <div class="wpd-secondary-forms-social-content"></div>
+                <div class="clearfix"></div>
+                                </div>
+                </div>
+		                    <div class="wpd-login-to-comment">Please login to comment</div>
+                                </div>
+                </div>
+        </div>
+    <div id="wpdiscuz-loading-bar" class="wpdiscuz-loading-bar-unauth"></div>
+    <div id="wpdiscuz-comment-message" class="wpdiscuz-comment-message-unauth"></div>
+    </main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Barra lateral principal" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Barra lateral principal</h2><section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget">
+	<div class="banner banner-sidebar top desktop ad-v2" data-dadid="d_300x600_1" data-dsizes="300x600,160x600,300x250" data-adlocation="sidebartop"></div>
+
+	</div></div></section>
+<section id="custom_html-19" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h3 class="widgettitle widget-title">Lo más leído del mes</h3>
+<div class="textwidget custom-html-widget"><div class="posts-populares"><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/actual/pagar-al-contado-o-pedir-un-credito.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos"><img width="150" height="150"   alt="Contado O Crédito" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/Contado-o-credito-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/Contado-o-credito-75x75.jpg 75w"  data-src="https://economipedia.com/wp-content/uploads/Contado-o-credito-150x150.jpg" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/Contado-o-credito-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Contado O Crédito" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/Contado-o-credito-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/Contado-o-credito-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/actual/pagar-al-contado-o-pedir-un-credito.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos">Pagar al contado o pedir un crédito</a></div></li></div><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/actual/para-que-sirven-los-indicadores-economicos-adelantados.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos"><img width="150" height="150"   alt="Indicadores Económicos Adelantados" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/Indicadores-economicos-adelantados-150x150.jpeg 150w, https://economipedia.com/wp-content/uploads/Indicadores-economicos-adelantados-75x75.jpeg 75w"  data-src="https://economipedia.com/wp-content/uploads/Indicadores-economicos-adelantados-150x150.jpeg" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/Indicadores-economicos-adelantados-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Indicadores Económicos Adelantados" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/Indicadores-economicos-adelantados-150x150.jpeg 150w, https://economipedia.com/wp-content/uploads/Indicadores-economicos-adelantados-75x75.jpeg 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/actual/para-que-sirven-los-indicadores-economicos-adelantados.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos">¿Para qué sirven los indicadores económicos adelantados?</a></div></li></div><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/actual/los-5-retos-de-la-economia-mundial-en-2023.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos"><img width="150" height="150"   alt="2023 (1) (1)" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/2023-1-1-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/2023-1-1-75x75.jpg 75w"  data-src="https://economipedia.com/wp-content/uploads/2023-1-1-150x150.jpg" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/2023-1-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="2023 (1) (1)" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/2023-1-1-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/2023-1-1-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/actual/los-5-retos-de-la-economia-mundial-en-2023.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos">Los 5 retos de la economía mundial en 2023</a></div></li></div><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/actual/como-encontrar-trabajo-en-internet.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos"><img width="150" height="150"   alt="¿Cómo encontrar trabajo en internet?" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/Personal-administrativo-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/Personal-administrativo-500x500.jpg 500w, https://economipedia.com/wp-content/uploads/Personal-administrativo-180x180.jpg 180w, https://economipedia.com/wp-content/uploads/Personal-administrativo-75x75.jpg 75w"  data-src="https://economipedia.com/wp-content/uploads/Personal-administrativo-150x150.jpg" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/Personal-administrativo-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="¿Cómo encontrar trabajo en internet?" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/Personal-administrativo-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/Personal-administrativo-500x500.jpg 500w, https://economipedia.com/wp-content/uploads/Personal-administrativo-180x180.jpg 180w, https://economipedia.com/wp-content/uploads/Personal-administrativo-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/actual/como-encontrar-trabajo-en-internet.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos">¿Cómo encontrar trabajo en internet?</a></div></li></div><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/analisis-economia/que-implica-el-gasto-en-defensa-para-la-economia.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos"><img width="150" height="150"   alt="Gasto Militar Incremento" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/Gasto-militar-incremento-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/Gasto-militar-incremento-75x75.jpg 75w"  data-src="https://economipedia.com/wp-content/uploads/Gasto-militar-incremento-150x150.jpg" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/Gasto-militar-incremento-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Gasto Militar Incremento" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/Gasto-militar-incremento-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/Gasto-militar-incremento-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/analisis-economia/que-implica-el-gasto-en-defensa-para-la-economia.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Mas_Leidos">¿Qué implica el gasto en defensa para la economía?</a></div></li></div></div></div></div></section>
+<section id="custom_html-20" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h3 class="widgettitle widget-title">Definiciones de economía</h3>
+<div class="textwidget custom-html-widget"><div class="posts-populares"><div class="post"><li class="heading"><div class="pp-titulo"><a class="title" href="https://economipedia.com/definiciones/industrial-revolution.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Definiciones">Industrial revolution</a></div></li></div><div class="post"><li class="heading"><div class="pp-titulo"><a class="title" href="https://economipedia.com/definiciones/matematicas/metodo-de-igualacion.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Definiciones">Método de igualación</a></div></li></div><div class="post"><li class="heading"><div class="pp-titulo"><a class="title" href="https://economipedia.com/definiciones/dispersion-measures.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Definiciones">Dispersion measures</a></div></li></div><div class="post"><li class="heading"><div class="pp-titulo"><a class="title" href="https://economipedia.com/definiciones/investment.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Definiciones">Investment</a></div></li></div><div class="post"><li class="heading"><div class="pp-titulo"><a class="title" href="https://economipedia.com/definiciones/aggregate-demand.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Definiciones">Aggregate demand</a></div></li></div></div></div></div></section>
+<section id="custom_html-5" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h3 class="widgettitle widget-title">Guías más leídas</h3>
+<div class="textwidget custom-html-widget"><div class="posts-populares"><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/guia/como-hacer-un-informe-paso-a-paso.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias"><img width="150" height="150"   alt="¿cómo Hacer Un Informe Paso A Paso?" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/¿Como-hacer-un-informe-paso-a-paso-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/¿Como-hacer-un-informe-paso-a-paso-180x180.jpg 180w, https://economipedia.com/wp-content/uploads/¿Como-hacer-un-informe-paso-a-paso-75x75.jpg 75w"  data-src="https://economipedia.com/wp-content/uploads/¿Como-hacer-un-informe-paso-a-paso-150x150.jpg" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/¿Como-hacer-un-informe-paso-a-paso-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="¿cómo Hacer Un Informe Paso A Paso?" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/¿Como-hacer-un-informe-paso-a-paso-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/¿Como-hacer-un-informe-paso-a-paso-180x180.jpg 180w, https://economipedia.com/wp-content/uploads/¿Como-hacer-un-informe-paso-a-paso-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/guia/como-hacer-un-informe-paso-a-paso.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias">¿Cómo hacer un informe paso a paso?</a></div></li></div><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/guia/algo-pasa-con-el-metaverso-todo-lo-que-quieres-saber-y-no-te-atreves-a-preguntar.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias"><img width="150" height="150"   alt="Metaverso" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/Metaverso-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/Metaverso-180x180.jpg 180w, https://economipedia.com/wp-content/uploads/Metaverso-75x75.jpg 75w"  data-src="https://economipedia.com/wp-content/uploads/Metaverso-150x150.jpg" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/Metaverso-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Metaverso" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/Metaverso-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/Metaverso-180x180.jpg 180w, https://economipedia.com/wp-content/uploads/Metaverso-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/guia/algo-pasa-con-el-metaverso-todo-lo-que-quieres-saber-y-no-te-atreves-a-preguntar.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias">Algo pasa con el Metaverso: Todo lo que quieres saber y no te atreves a preguntar</a></div></li></div><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/guia/que-porcentaje-de-irpf-me-corresponde-en-mi-nomina-de-espana.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias"><img width="150" height="150"   alt="IRPF" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/20945248-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/20945248-180x180.jpg 180w, https://economipedia.com/wp-content/uploads/20945248-300x300.jpg 300w, https://economipedia.com/wp-content/uploads/20945248-75x75.jpg 75w, https://economipedia.com/wp-content/uploads/20945248.jpg 500w"  data-src="https://economipedia.com/wp-content/uploads/20945248-150x150.jpg" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/20945248-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="IRPF" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/20945248-150x150.jpg 150w, https://economipedia.com/wp-content/uploads/20945248-180x180.jpg 180w, https://economipedia.com/wp-content/uploads/20945248-300x300.jpg 300w, https://economipedia.com/wp-content/uploads/20945248-75x75.jpg 75w, https://economipedia.com/wp-content/uploads/20945248.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/guia/que-porcentaje-de-irpf-me-corresponde-en-mi-nomina-de-espana.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias">¿Qué porcentaje de IRPF me corresponde en mi nómina de España?</a></div></li></div><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/guia/revolucion-nfts-guia-definitiva.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias"><img width="150" height="150"   alt="Guia Nfts" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/Guia-NFTs-150x150.png 150w, https://economipedia.com/wp-content/uploads/Guia-NFTs-500x500.png 500w, https://economipedia.com/wp-content/uploads/Guia-NFTs-180x180.png 180w, https://economipedia.com/wp-content/uploads/Guia-NFTs-75x75.png 75w"  data-src="https://economipedia.com/wp-content/uploads/Guia-NFTs-150x150.png" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/Guia-NFTs-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Guia Nfts" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/Guia-NFTs-150x150.png 150w, https://economipedia.com/wp-content/uploads/Guia-NFTs-500x500.png 500w, https://economipedia.com/wp-content/uploads/Guia-NFTs-180x180.png 180w, https://economipedia.com/wp-content/uploads/Guia-NFTs-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/guia/revolucion-nfts-guia-definitiva.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias">La revolución de los NFTs: la guía definitiva para entenderlos</a></div></li></div><div class="post"><li class="heading"><div class="pp-imagen"><a class="image" href="https://economipedia.com/guia/guia-de-como-elaborar-un-plan-de-marketing.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias"><img width="150" height="150"   alt="Guia" decoding="async" loading="lazy" data-srcset="https://economipedia.com/wp-content/uploads/Guia-150x150.png 150w, https://economipedia.com/wp-content/uploads/Guia-500x500.png 500w, https://economipedia.com/wp-content/uploads/Guia-180x180.png 180w, https://economipedia.com/wp-content/uploads/Guia-75x75.png 75w"  data-src="https://economipedia.com/wp-content/uploads/Guia-150x150.png" data-sizes="(max-width: 150px) 100vw, 150px" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://economipedia.com/wp-content/uploads/Guia-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Guia" decoding="async" loading="lazy" srcset="https://economipedia.com/wp-content/uploads/Guia-150x150.png 150w, https://economipedia.com/wp-content/uploads/Guia-500x500.png 500w, https://economipedia.com/wp-content/uploads/Guia-180x180.png 180w, https://economipedia.com/wp-content/uploads/Guia-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a></div> <div class="pp-titulo"><a class="title" href="https://economipedia.com/guia/guia-de-como-elaborar-un-plan-de-marketing.html?utm_source=Web&utm_medium=Sidebar&utm_campaign=Sugeridos&utm_term=Guias">Guía: ¿Cómo hacer un plan de marketing? Paso a paso</a></div></li></div></div></div></div></section>
+<section id="custom_html-7" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget">
+	<div class="banner banner-sidebar dgv-sticky desktop ad-v2" data-dadid="d_300x600_2" data-dsizes="300x600,160x600,300x250" data-adlocation="sidebardgvsticky"></div>
+
+	</div></div></section>
+</aside></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">Diccionario económico</h3>
+<div class="menu-footer-1-diccionario-container"><ul id="menu-footer-1-diccionario" class="menu"><li id="menu-item-60515" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-60515"><a href="https://economipedia.com/definiciones">Diccionario económico</a></li>
+<li id="menu-item-60514" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60514"><a href="https://economipedia.com/definiciones/economia">Definiciones de Economía</a></li>
+<li id="menu-item-60516" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60516"><a href="https://economipedia.com/definiciones/economia/microeconomia">Definiciones de Microeconomía</a></li>
+<li id="menu-item-60517" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60517"><a href="https://economipedia.com/definiciones/economia/macroeconomia">Definiciones de Macroeconomía</a></li>
+<li id="menu-item-60518" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60518"><a href="https://economipedia.com/definiciones/finanzas">Definiciones de Finanzas</a></li>
+</ul></div></div></section>
+</div><div class="widget-area footer-widgets-2 footer-widget-area"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">Contenidos de economía</h3>
+<div class="menu-footer-2-contenidos-container"><ul id="menu-footer-2-contenidos" class="menu"><li id="menu-item-151777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151777"><a href="https://economipedia.com/campus/">Cursos de economía</a></li>
+<li id="menu-item-73597" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73597"><a href="https://economipedia.com/mercado">Noticias y artículos sobre mercados</a></li>
+<li id="menu-item-60553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60553"><a href="https://economipedia.com/datos-economicos">Rankings económicos</a></li>
+<li id="menu-item-73598" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73598"><a href="https://economipedia.com/cultura">Noticias y artículos de sociedad</a></li>
+<li id="menu-item-60555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60555"><a href="https://economipedia.com/fuentes">Fuentes</a></li>
+</ul></div></div></section>
+</div><div class="widget-area footer-widgets-3 footer-widget-area"><section id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">Sobre nosotros</h3>
+<div class="menu-footer-3-container"><ul id="menu-footer-3" class="menu"><li id="menu-item-60548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60548"><a rel="nofollow" href="https://economipedia.com/que-es-economipedia">¿Qué es economipedia?</a></li>
+<li id="menu-item-60546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60546"><a rel="nofollow" href="https://economipedia.com/quienes-somos">¿Quiénes somos?</a></li>
+<li id="menu-item-87469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87469"><a href="https://economipedia.com/el-equipo">El equipo</a></li>
+<li id="menu-item-184719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184719"><a href="https://economipedia.com/empleo">Empleo</a></li>
+<li id="menu-item-151776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151776"><a href="https://economipedia.com/ayuda">Ayuda</a></li>
+<li id="menu-item-60547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60547"><a rel="nofollow" href="https://economipedia.com/contacto">Contacto</a></li>
+</ul></div></div></section>
+<section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget">Si quieres colaborar con nosotros o hacernos llegar cualquier sugerencia, puedes contactar a través de nuestro <strong><a href="https://economipedia.com/contacto">formulario de contacto</a></strong>.
+<br><br>
+<div class="one-half first" style="padding: 0px;">
+Síguenos en redes sociales: 
+</div>
+
+<div class="one-half">
+
+<div class="social-icons follow">
+
+	<style>
+	.social-icons .icon {
+		display: inline-block;
+	}
+
+	.social-icons .fab {
+		font-family: FontAwesome;
+		font-style: normal;
+		font-size: 25px;
+		background-color: #031750;
+		color: #fff;
+		padding: 8px 11px;
+		border-radius: 50px;
+		margin: 0.5px;
+	}
+
+	.social-icons .facebook .fab {
+		padding: 8px 13px;
+	}
+
+	.social-icons a,
+	.social-icons a:hover {
+		text-decoration: none !important;
+	}
+
+	.social-icons .fab:hover {
+		opacity: 0.8;
+		position: relative; 
+		top: -3px;
+	}
+	</style>
+
+	<div class="icon">
+	<a class="facebook" href="https://www.facebook.com/Economipedia" target="_blank" rel="noopener">
+	<i class="fab fa-facebook-f"></i>
+	</a>
+	</div>
+	
+	<div class="icon">
+	<a class="instagram" href="https://instagram.com/economipedia" target="_blank" rel="noopener">
+	<i class="fab fa-instagram"></i>
+	</a>
+	</div>
+	
+	<div class="icon">
+	<a class="twitter" href="https://twitter.com/economipedia" target="_blank" rel="noopener">
+	<i class="fab fa-twitter"></i>
+	</a>
+	</div>
+	
+	<div class="icon">
+	<a class="youtube" href="https://www.youtube.com/channel/UCFyqRLI9pQU1rOcQk71W4dA?sub_confirmation=1" target="_blank" rel="noopener">
+	<i class="fab fa-youtube"></i>
+	</a>
+	</div>
+	
+	<div class="icon">
+	<a class="linkedin" href="https://www.linkedin.com/company/economipedia" target="_blank" rel="noopener">
+	<i class="fab fa-linkedin"></i>
+	</a>
+	</div>
+	
+	<div class="icon">
+	<a href="https://t.me/economipedia" target="_blank" rel="noopener">
+	<i class="fab fa-telegram-plane"></i>
+	</a>
+	</div>
+
+	</div>
+</div></div></div></section>
+</div></div></div>
+ <section class="before-site-footer">
+
+    <img   alt="Logo Economipedia" data-src="https://economipedia.com/statics/images/Logo-Economipedia-Blanco-Footer.png" class="footer-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="footer-logo" src="https://economipedia.com/statics/images/Logo-Economipedia-Blanco-Footer.png" alt="Logo Economipedia"></noscript>
+
+    <p class="rrss-title">Síguenos en redes sociales</p>
+
+    <ul class="rrss-menu">
+        <li>
+            <a href="https://www.facebook.com/Economipedia" target="_blank" class="facebook">
+                <img  alt="Icono Facebook"  data-src="https://economipedia.com/statics/images/icono-rrss-facebook.svg" class="rrss-imagen lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://economipedia.com/statics/images/icono-rrss-facebook.svg" alt="Icono Facebook" class="rrss-imagen"></noscript>
+            </a><!-- .facebook -->
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/company/economipedia" target="_blank" class="linkedin">
+                <img  alt="Icono LinkedIn"  data-src="https://economipedia.com/statics/images/icono-rrss-linkedin.svg" class="rrss-imagen lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://economipedia.com/statics/images/icono-rrss-linkedin.svg" alt="Icono LinkedIn" class="rrss-imagen"></noscript>
+            </a><!-- .linkedin -->
+        </li>
+        <li>
+            <a href="https://twitter.com/economipedia" target="_blank" class="twitter">
+                <img  alt="Icono Twitter"  data-src="https://economipedia.com/statics/images/icono-rrss-twitter.svg" class="rrss-imagen lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://economipedia.com/statics/images/icono-rrss-twitter.svg" alt="Icono Twitter" class="rrss-imagen"></noscript>               
+            </a><!-- .twitter -->
+        </li>
+        <li>
+            <a href="https://www.youtube.com/c/Economipedia" target="_blank" class="youtube">
+                <img  alt="Icono YouTube"  data-src="https://economipedia.com/statics/images/icono-rrss-youtube.svg" class="rrss-imagen lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://economipedia.com/statics/images/icono-rrss-youtube.svg" alt="Icono YouTube" class="rrss-imagen"></noscript>
+            </a><!-- .youtube -->
+        </li>
+        <li>
+            <a href="https://instagram.com/economipedia/" target="_blank" class="instagram">
+                <img  alt="Icono Instagram"  data-src="https://economipedia.com/statics/images/icono-rrss-instagram.svg" class="rrss-imagen lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://economipedia.com/statics/images/icono-rrss-instagram.svg" alt="Icono Instagram" class="rrss-imagen"></noscript>               
+            </a><!-- .instagram -->
+        </li>
+    </ul><!-- .rrss-menu -->
+
+ </section><!-- .before-site-footer --><footer class="site-footer"><div class="wrap"><nav class="nav-secondary" aria-label="Secundario"><div class="wrap"><ul id="menu-menu-legal" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-149916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149916"><a href="https://economipedia.com/ayuda"><span >Ayuda</span></a></li>
+<li id="menu-item-60539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60539"><a rel="nofollow" href="https://economipedia.com/aviso-legal"><span >Aviso legal</span></a></li>
+<li id="menu-item-60540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60540"><a rel="nofollow" href="https://economipedia.com/privacidad/cookies"><span >Cookies</span></a></li>
+<li id="menu-item-60541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-60541"><a rel="nofollow" href="https://economipedia.com/privacidad"><span >Privacidad</span></a></li>
+<li id="menu-item-146985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146985"><a href="https://economipedia.com/privacidad/terminos-condiciones"><span >Términos y condiciones</span></a></li>
+</ul></div></nav><p>Copyright &#x000A9;&nbsp;2023 <a href="https://economipedia.com">Economipedia</a></p>					<div class="modal-popup">
+						<button class="cerrar" data-izimodal-close="" data-izimodal-transitionout="bounceOutDown"><span class="close"></span></button>
+						<div class="modal-campus aligncenter-no">
+							<div class="heading">
+								<h3><span>Domina tus finanzas</span><br>¡Haz que tu dinero trabaje para ti!</h3>
+							</div><!-- .heading -->
+
+							<div class="contenido-popup aligncenter" style="margin: 40px auto 0">
+								<p>40% de descuento en la suscripción anual a Economipedia. Solo hasta el jueves 30 de marzo (incluido).</p>
+								<p>Todos los detalles aquí:</p>
+							</div>
+
+							<p class="cta-popup"><a href="https://economipedia.com/registro/?utm_source=web&utm_medium=popup&utm_campaign=dominatusfinanzas_marzo" class="button button-alt">Suscripción a Economipedia</a></p>
+
+						</div><!-- .modal-campus -->
+					</div><!-- .modal -->
+					
+	<!-- Economipedia InText Web  -->
+	<script>function a(r){try{for(;r.parent&&r!==r.parent;)r=r.parent;return r}catch(r){return null}}var n=a(window);if(n&&n.document&&n.document.body){var s=document.createElement("script");s.setAttribute("data-gdpr-applies", "${gdpr}");s.setAttribute("data-consent-string", "${gdpr_consent}");s.src="https://static.sunmedia.tv/integrations/29b8d6e9-7e46-4fef-9f71-42ca939553eb/29b8d6e9-7e46-4fef-9f71-42ca939553eb.js",s.async=!0,n.document.body.appendChild(s)}</script>
+
+
+	<!-- Economipedia Nativo -->
+	<script async type="application/javascript" src="https://static.sunmedia.tv/integrations/1f77d056-67c5-4a95-aa3d-5b54bde7a780/1f77d056-67c5-4a95-aa3d-5b54bde7a780.js" data-gdpr-applies="${gdpr}" data-consent-string="${gdpr_consent}"></script>
+
+
+	<!-- Economipedia Slider Web -->
+	<script>function a(r){try{for(;r.parent&&r!==r.parent;)r=r.parent;return r}catch(r){return null}}var n=a(window);if(n&&n.document&&n.document.body){var s=document.createElement("script");s.setAttribute("data-gdpr-applies", "${gdpr}");s.setAttribute("data-consent-string", "${gdpr_consent}");s.src="https://static.sunmedia.tv/integrations/59d47aaa-d37c-4f9b-a4d3-aaebfad9a2a6/59d47aaa-d37c-4f9b-a4d3-aaebfad9a2a6.js",s.async=!0,n.document.body.appendChild(s)}</script>
+
+	</div></footer></div><script data-cfasync="false" type="text/javascript" id="nelio-ab-testing-main-ready">/*nelio-ab-testing-main-ready*//* <![CDATA[ */window.nabAddSingleAction( "main-ready", function() { nab.view( [187783] ); } );/* ]]> */</script>
+
+    <script>
+        jQuery(document).ready(function($) {
+
+            console.log('Leer h2');
+
+            $('h2').each(function(index, value) {
+
+                // $(this).html('<a name="' + $(this).text().replace(/ /g, "-") + '">' + $(this).text() + '</a>');
+
+                var texto = $(this).text();
+                console.log('h2: ' + texto);
+
+                texto = texto.toLowerCase();
+                var slug = slugify(texto) // some-string
+                slug = slug.replace(/\./g, '');
+                console.log("Slug: " + slug);
+                $(this).attr('id', slug);
+
+
+            });
+
+            // $.each($('h1'), function(index, value) {
+            //     //append the text of your header to a list item in a div, linking to an anchor we will create on the next line
+            //     $('#box-anchors').append('<li><a href="#anchor-' + index + '">' + $(this).html() + '</a></li>');
+            //     //add an a tag to the header with a sequential name
+            //     $(this).html('<a name="anchor-' + index + '">' + $(this).html() + '</a>');
+            // });
+
+        });
+    </script>
+<a href='javascript:void(0);' id='wpdUserContentInfoAnchor' style='display:none;' rel='#wpdUserContentInfo' data-wpd-lity>wpDiscuz</a><div id='wpdUserContentInfo' style='overflow:auto;background:#FDFDF6;padding:20px;width:600px;max-width:100%;border-radius:6px;' class='lity-hide'></div><div id='wpd-editor-source-code-wrapper-bg'></div><div id='wpd-editor-source-code-wrapper'><textarea id='wpd-editor-source-code'></textarea><button id='wpd-insert-source-code'>Insert</button><input type='hidden' id='wpd-editor-uid' /></div><link rel='stylesheet' id='quantcast-css-css' href='https://economipedia.com/statics/css/quantcast.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='econo_modal_login-css' href='https://economipedia.com/wp-content/plugins/econo-modal-login/assets/css/econo-modal-login.css?ver=1.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/economipedia.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.5.1' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.1.3' id='wpascript-js'></script>
+<script type='text/javascript' id='wpascript-js-after'>
+wpa_field_info = {"wpa_field_name":"rorssu5357","wpa_field_value":741051,"wpa_add_test":"no"}
+</script>
+<script type='text/javascript' id='wpdiscuz-combo-js-js-extra'>
+/* <![CDATA[ */
+var wpdiscuzAjaxObj = {"wc_hide_replies_text":"Hide Replies","wc_show_replies_text":"View Replies","wc_msg_required_fields":"Please fill out required fields","wc_invalid_field":"Some of field value is invalid","wc_error_empty_text":"please fill out this field to comment","wc_error_url_text":"url is invalid","wc_error_email_text":"email address is invalid","wc_invalid_captcha":"Invalid Captcha Code","wc_login_to_vote":"You Must Be Logged In To Vote","wc_deny_voting_from_same_ip":"You are not allowed to vote for this comment","wc_self_vote":"You cannot vote for your comment","wc_vote_only_one_time":"You've already voted for this comment","wc_voting_error":"Voting Error","wc_comment_edit_not_possible":"Sorry, this comment is no longer possible to edit","wc_comment_not_updated":"Sorry, the comment was not updated","wc_comment_not_edited":"You've not made any changes","wc_msg_input_min_length":"Input is too short","wc_msg_input_max_length":"Input is too long","wc_spoiler_title":"Spoiler Title","wc_cannot_rate_again":"You cannot rate again","wc_not_allowed_to_rate":"You're not allowed to rate here","wc_follow_user":"Follow this user","wc_unfollow_user":"Unfollow this user","wc_follow_success":"You started following this comment author","wc_follow_canceled":"You stopped following this comment author.","wc_follow_email_confirm":"Please check your email and confirm the user following request.","wc_follow_email_confirm_fail":"Sorry, we couldn't send confirmation email.","wc_follow_login_to_follow":"Please login to follow users.","wc_follow_impossible":"We are sorry, but you can't follow this user.","wc_follow_not_added":"Following failed. Please try again later.","is_user_logged_in":"","commentListLoadType":"0","commentListUpdateType":"0","commentListUpdateTimer":"60","liveUpdateGuests":"0","wordpressThreadCommentsDepth":"5","wordpressIsPaginate":"","commentTextMaxLength":"0","replyTextMaxLength":"0","commentTextMinLength":"1","replyTextMinLength":"1","storeCommenterData":"100000","socialLoginAgreementCheckbox":"1","enableFbLogin":"0","fbUseOAuth2":"0","enableFbShare":"0","facebookAppID":"","facebookUseOAuth2":"0","enableGoogleLogin":"0","googleClientID":"","googleClientSecret":"","cookiehash":"7iwJ7v9O41tqtIjUXsGCMOW4xLpgZxCIrSG7Xx6sjuXZhEJDV0WI90Igk1DVd3S1","isLoadOnlyParentComments":"0","scrollToComment":"1","commentFormView":"collapsed","enableDropAnimation":"1","isNativeAjaxEnabled":"1","enableBubble":"0","bubbleLiveUpdate":"0","bubbleHintTimeout":"45","bubbleHintHideTimeout":"10","cookieHideBubbleHint":"wpdiscuz_hide_bubble_hint","bubbleShowNewCommentMessage":"0","bubbleLocation":"content_left","firstLoadWithAjax":"0","wc_copied_to_clipboard":"Copied to clipboard!","inlineFeedbackAttractionType":"blink","loadRichEditor":"1","wpDiscuzReCaptchaSK":"","wpDiscuzReCaptchaTheme":"light","wpDiscuzReCaptchaVersion":"2.0","wc_captcha_show_for_guest":"0","wc_captcha_show_for_members":"0","wpDiscuzIsShowOnSubscribeForm":"0","wmuEnabled":"1","wmuInput":"wmu_files","wmuMaxFileCount":"1","wmuMaxFileSize":"2097152","wmuPostMaxSize":"134217728","wmuIsLightbox":"1","wmuMimeTypes":{"jpg":"image\/jpeg","jpeg":"image\/jpeg","png":"image\/png"},"wmuPhraseConfirmDelete":"Are you sure you want to delete this attachment?","wmuPhraseNotAllowedFile":"Not allowed file type","wmuPhraseMaxFileCount":"Maximum number of uploaded files is 1","wmuPhraseMaxFileSize":"Maximum upload file size is 2MB","wmuPhrasePostMaxSize":"Maximum post size is 128MB","wmuPhraseDoingUpload":"Uploading in progress! Please wait.","msgEmptyFile":"File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.","msgPostIdNotExists":"Post ID not exists","msgUploadingNotAllowed":"Sorry, uploading not allowed for this post","msgPermissionDenied":"You do not have sufficient permissions to perform this action","wmuKeyImages":"images","wmuSingleImageWidth":"auto","wmuSingleImageHeight":"200","version":"7.5.3","wc_post_id":"35181","isCookiesEnabled":"1","loadLastCommentId":"0","dataFilterCallbacks":[],"phraseFilters":[],"scrollSize":"32","is_email_field_required":"0","url":"https:\/\/economipedia.com\/wp-admin\/admin-ajax.php","customAjaxUrl":"https:\/\/economipedia.com\/wp-content\/plugins\/wpdiscuz\/utils\/ajax\/wpdiscuz-ajax.php","bubbleUpdateUrl":"https:\/\/economipedia.com\/wp-json\/wpdiscuz\/v1\/update","restNonce":"e5aed6daed","validateNonceForGuests":""};
+var wpdiscuzUCObj = {"msgConfirmDeleteComment":"Are you sure you want to delete this comment?","msgConfirmCancelSubscription":"Are you sure you want to cancel this subscription?","msgConfirmCancelFollow":"Are you sure you want to cancel this follow?","additionalTab":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='wpdiscuz-combo-js-js-before'>
+        var wpdiscuzEditorOptions = {
+        modules: {
+        toolbar: "",
+        counter: {
+        uniqueID: "",
+        commentmaxcount : 0,
+        replymaxcount : 0,
+        commentmincount : 1,
+        replymincount : 1,
+        },
+                },
+        wc_be_the_first_text: "Be the First to Comment!",
+        wc_comment_join_text: "Join the discussion",
+        theme: 'snow',
+        debug: 'error'
+        };
+        
+</script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo.min.js?ver=7.5.3' id='wpdiscuz-combo-js-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.16.2' id='gtm4wp-form-move-tracker-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-youtube.js?ver=1.16.2' id='gtm4wp-youtube-js'></script>
+<script type='text/javascript' src='https://player.vimeo.com/api/player.js?ver=1.0' id='gtm4wp-vimeo-api-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-vimeo.js?ver=1.16.2' id='gtm4wp-vimeo-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-includes/js/comment-reply.min.js?ver=6.1.1' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10' id='superfish-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.4.0' id='superfish-args-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.4.0' id='skip-links-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/themes/economipedia/js/genesis-sample.js?ver=3.0.846858' id='genesis-sample-js'></script>
+<script type='text/javascript' src='https://economipedia.com/statics/js/responsive-menu.js?ver=3.0.846858' id='dgv-responsive-menu-js'></script>
+<script type='text/javascript' src='https://economipedia.com/statics/js/iconos-nav-menu-reponsive.js' id='iconos-nav-menu-reponsive-js'></script>
+<script type='text/javascript' src='https://economipedia.com/statics/js/comentarios.js?ver=6.1.1' id='comentarios-js-js'></script>
+<script type='text/javascript' id='wd-asl-ajaxsearchlite-js-before'>
+window.ASL = typeof window.ASL !== 'undefined' ? window.ASL : {}; window.ASL.wp_rocket_exception = "DOMContentLoaded"; window.ASL.ajaxurl = "https:\/\/economipedia.com\/wp-content\/plugins\/ajax-search-lite\/ajax_search.php"; window.ASL.backend_ajaxurl = "https:\/\/economipedia.com\/wp-admin\/admin-ajax.php"; window.ASL.js_scope = "jQuery"; window.ASL.asl_url = "https:\/\/economipedia.com\/wp-content\/plugins\/ajax-search-lite\/"; window.ASL.detect_ajax = 1; window.ASL.media_query = 4756; window.ASL.version = 4756; window.ASL.pageHTML = ""; window.ASL.additional_scripts = [{"handle":"wd-asl-ajaxsearchlite","src":"https:\/\/economipedia.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-prereq.js","prereq":[]},{"handle":"wd-asl-ajaxsearchlite-core","src":"https:\/\/economipedia.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-core.js","prereq":[]},{"handle":"wd-asl-ajaxsearchlite-vertical","src":"https:\/\/economipedia.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-results-vertical.js","prereq":["wd-asl-ajaxsearchlite"]},{"handle":"wd-asl-ajaxsearchlite-autocomplete","src":"https:\/\/economipedia.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-autocomplete.js","prereq":["wd-asl-ajaxsearchlite"]},{"handle":"wd-asl-ajaxsearchlite-load","src":"https:\/\/economipedia.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-load.js","prereq":["wd-asl-ajaxsearchlite-autocomplete"]}]; window.ASL.script_async_load = false; window.ASL.init_only_in_viewport = true; window.ASL.font_url = "https:\/\/economipedia.com\/wp-content\/plugins\/ajax-search-lite\/css\/fonts\/icons2.woff2"; window.ASL.css_async = false; window.ASL.highlight = {"enabled":false,"data":[]}; window.ASL.analytics = {"method":0,"tracking_id":"","string":"?ajax_search={asl_term}","event":{"focus":{"active":1,"action":"focus","category":"ASL","label":"Input focus","value":"1"},"search_start":{"active":0,"action":"search_start","category":"ASL","label":"Phrase: {phrase}","value":"1"},"search_end":{"active":1,"action":"search_end","category":"ASL","label":"{phrase} | {results_count}","value":"1"},"magnifier":{"active":1,"action":"magnifier","category":"ASL","label":"Magnifier clicked","value":"1"},"return":{"active":1,"action":"return","category":"ASL","label":"Return button pressed","value":"1"},"facet_change":{"active":0,"action":"facet_change","category":"ASL","label":"{option_label} | {option_value}","value":"1"},"result_click":{"active":1,"action":"result_click","category":"ASL","label":"{result_title} | {result_url}","value":"1"}}};
+window.ASL_INSTANCES = [];window.ASL_INSTANCES[1] = {"homeurl":"https:\/\/economipedia.com\/","resultstype":"vertical","resultsposition":"hover","itemscount":10,"charcount":3,"highlight":0,"highlightwholewords":1,"singleHighlight":0,"scrollToResults":{"enabled":0,"offset":0},"resultareaclickable":1,"autocomplete":{"enabled":1,"lang":"es","trigger_charcount":0},"mobile":{"menu_selector":"#menu-toggle"},"trigger":{"click":"results_page","click_location":"same","update_href":0,"return":"results_page","return_location":"same","facet":1,"type":1,"redirect_url":"?s={phrase}","delay":300},"animations":{"pc":{"settings":{"anim":"fadedrop","dur":300},"results":{"anim":"fadedrop","dur":300},"items":"voidanim"},"mob":{"settings":{"anim":"fadedrop","dur":300},"results":{"anim":"fadedrop","dur":300},"items":"voidanim"}},"autop":{"state":"disabled","phrase":"","count":1},"resPage":{"useAjax":0,"selector":"#main","trigger_type":1,"trigger_facet":1,"trigger_magnifier":0,"trigger_return":0},"resultsSnapTo":"left","results":{"width":"auto","width_tablet":"auto","width_phone":"auto"},"settingsimagepos":"right","closeOnDocClick":1,"overridewpdefault":1,"override_method":"post"};
+</script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-prereq.js?ver=4756' id='wd-asl-ajaxsearchlite-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-core.js?ver=4756' id='wd-asl-ajaxsearchlite-core-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-results-vertical.js?ver=4756' id='wd-asl-ajaxsearchlite-vertical-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-autocomplete.js?ver=4756' id='wd-asl-ajaxsearchlite-autocomplete-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-load.js?ver=4756' id='wd-asl-ajaxsearchlite-load-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-wrapper.js?ver=4756' id='wd-asl-ajaxsearchlite-wrapper-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/econo-modal-box-domina-tus-finanzas-marzo/js/modal-box-promos.js' id='modal-box-promos-js-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/themes/economipedia/publicidad/publicidad-economipedia/js/publicidad.js?ver=6.1.1' id='publicidad-js-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load-native.min.js?ver=3.12.6' id='smush-lazy-load-js'></script>
+<script type='text/javascript' src='https://economipedia.com/statics/js/cookies-quantcast.js' id='quantcast-js-js'></script>
+<script type='text/javascript' src='https://economipedia.com/wp-content/plugins/econo-modal-login/assets/js/control-modal-login.js?ver=1.0.2' id='econo_control_login_modal-js'></script>
+<script>window.GA_ID='';</script><script src='https://economipedia.com/wp-content/plugins/flying-analytics/js/minimal-analytics.js' defer></script></body></html>

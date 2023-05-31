@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  background: linear-gradient(to right, orange, #ec38bc, #7303c0, cyan);
+}
+.header{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+
+.content{
+  max-width: 40rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin: auto;
+  text-align: center;
+}
+
+
+.header-content h1{
+  font-size: 50px;
+  margin-bottom: 0;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+.header-content p{
+  font-size: 1.5rem;
+  display: block;
+  padding-bottom: 2rem;
+}
+
+.boton{
+  background-color: rgb(42, 57, 118);
+  color: #fff;
+  border: none;
+  border-radius: 40px;
+  padding: 16px;
+
+  font-size: 15.5px;
+  cursor: pointer;
+}
+
+.links a{
+  text-decoration: none;
+  color: #333;
+  display: block;
+  padding: 10px;
+}
+
+.links{
+  background-color: #4b558b;
+  width: 180px;
+  display: none;
+}
+
+.links a:hover{
+  background-color:#c5d2edc5 ;
+}
+
+.desplegable:hover .links{
+  display: block;
+}
+
+.desplegable{
+  position: absolute;
+  z-index: 1;
+}
+
+@media (max-width: 960px) {
+  .content {
+      padding: 0 3rem 0 3rem;
+  }
+  
+}

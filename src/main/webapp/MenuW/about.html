@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--------- title ----------->
+    <title>Swiper | Effects Coverflow using js</title>
+    <!---- swiper css link --------->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
+    <!------- customer css link ------->
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+        <section>
+            <div class="swiper mySwiper" align="center">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <h3><br>
+                            MISIÓN <br><br> 
+                            La empresa destaca la importancia de las mentes creativas como el futuro, 
+                            mostramos que un mundo mejorado con nuestras creaciones o innovaciones no es sólo un sueño, 
+                            automatizamos los procesos cotidianos, haciéndolos nobles y sencillos.
+                        </h3>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <h3><br>
+                            VISIÓN <br><br>
+                            Para 2024 nuestras creaciones e innovaciones serán factibles para  
+                            que cualquiera se interese en usarlas, además de buscar su mayor exposición, 
+                            convirtiendolo en un auxiliar para una eficaz administración del tiempo y dinero.
+                        </h3>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <h3><br>
+                            Valores <br><br>
+                            Constancia <br>
+                            Responsabilidad <br>
+                            Adaptabilidad <br>
+                            Disciplina <br>
+                            Diligencia <br>
+                            Respeto <br>
+                            Filosofía <br>
+                        </h3>
+                    </div>
+                    <div class="swiper-slide">
+                        <h3><br>
+                            OBJETIVO GENERAL <br><br>
+                            Ser una empresa nivel internacional para innovar y mejorar el mundo que ya conocemos.
+                            Cada persona que use nuestro software resolverá necesidades comunes de la persona
+                        </h3>
+                    </div>
+                    
+                </div>
+
+                <div class="swiper-pagination"></div>
+            </div>
+
+
+        </section>
+
+
+
+
+
+
+
+    <!------- swiper cdn ----------->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+          effect: "coverflow",
+          grabCursor: true,
+          centeredSlides: true,
+          slidesPerView: "auto",
+          coverflowEffect: {
+            rotate: 50,
+            stretch: 0,
+            depth: 100,
+            modifier: 1,
+            slideShadows: true,
+          },
+          pagination: {
+            el: ".swiper-pagination",
+          },
+        });
+      </script>
+
+
+    
+</body>
+</html>

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman';
+    
+}
+
+.container {
+    padding: 60px 60px;
+    text-align: justify;
+    line-height: 25px;
+}
+
+.container a{
+    padding: 0 0 0 1300px;
+    text-decoration: none;
+}
+.container a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.container ul{
+    padding: 10px 10px 10px 60px;
+}
+
+.container h2{
+    text-align: center;
+}
