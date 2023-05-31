@@ -71,6 +71,7 @@
                 <canvas id="myChart"></canvas>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
                 <%
+                    
                     String usuarioini = session.getAttribute("IdUsuario").toString();
                     int usuario1 = Integer.parseInt(usuarioini);
                     System.out.println(usuarioini);

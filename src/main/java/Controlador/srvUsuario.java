@@ -78,6 +78,7 @@ public class srvUsuario extends HttpServlet {
         usuario = dao.identificar(usuario);
         if(usuario != null){
         sesion.setAttribute("usuario",usuario);
+        sesion.setAttribute("IdUsuario", usuario.getId());
         request.setAttribute("msje", "Bienvenido al sistema");
         this.getServletConfig().getServletContext().getRequestDispatcher("/verificarCuestionario1.jsp").forward(request, response);
         }else{

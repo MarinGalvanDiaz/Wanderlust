@@ -16,7 +16,7 @@ public class conexion {
         Connection cn = null;
         try{
            Class.forName("com.mysql.cj.jdbc.Driver");
-           cn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/Fondo_financiero4?autoReconnect=true&useSSL=false", "root", "n0m3l0");
+           cn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/wanderlu_Fondo_Financiero5?autoReconnect=true&useSSL=false", "wanderlu_FONDO_FINANCIERO4", "Yp%1q69s");
         }
         catch(Exception e){
             System.out.println("Error al conectar" + e.getMessage());
